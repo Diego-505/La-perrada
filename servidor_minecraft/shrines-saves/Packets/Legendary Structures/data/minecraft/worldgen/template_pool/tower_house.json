@@ -1,0 +1,1 @@
+{"name":"minecraft:tower_house","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"shrines:tower_house","processors":"shrines:default_processors","projection":"rigid","element_type":"minecraft:single_pool_element"}}]}

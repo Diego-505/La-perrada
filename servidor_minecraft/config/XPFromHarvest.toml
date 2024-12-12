@@ -1,0 +1,13 @@
+#Enable simple harvesting and replanting with right click
+"Simple Harvest" = false
+#Curiosity Mode: sneak + right click with on block to get info in chat
+Curiosity = false
+#List of crops to process with their ages
+"Crops List" = ["Block{minecraft:potatoes}[age=7]", "Block{minecraft:carrots}[age=7]", "Block{minecraft:wheat}[age=7]", "Block{minecraft:beetroots}[age=3]", "Block{minecraft:nether_wart}[age=3]", "Block{crockpot:tomatoes}[age=7]", "Block{crockpot:onions}[age=7]", "Block{crockpot:asparaguses}[age=7]", "Block{crockpot:peppers}[age=7]", "Block{crockpot:eggplants}[age=7]", "Block{crockpot:corns}[age=7]", "Block{farmersdelight:cabbages}[age=7]", "Block{farmersdelight:rice_upper_crop}[age=3]", "Block{farmersdelight:onions}[age=7]", "Block{crockpot:corns}[age=3]", "Block{farmersdelight:tomatoes}[age=7]"]
+#Amount of XP given
+#Range: > 1
+"XP Amount" = 1
+#Chance in % of XP orb spawning after harvest done
+#Range: 1 ~ 100
+Chance = 100
+

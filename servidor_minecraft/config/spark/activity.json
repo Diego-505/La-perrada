@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Krampus_There",
+      "uniqueId": "32e09091-f8d2-4cde-b2d2-05e09150116b"
+    },
+    "time": 1730069965871,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/mkmOcfgKgz"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Krampus_There",
+      "uniqueId": "32e09091-f8d2-4cde-b2d2-05e09150116b"
+    },
+    "time": 1730069871300,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/7ktqWZJp9o"
+    }
+  }
+]

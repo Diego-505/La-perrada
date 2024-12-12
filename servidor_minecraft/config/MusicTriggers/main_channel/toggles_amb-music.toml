@@ -1,0 +1,46 @@
+# Please refer to the wiki page located at https://github.com/TheComputerizer/Music-Triggers/wiki/The-Basics
+# or the discord server located at https://discord.gg/FZHXFYp8fc
+# for any specific questions you might have regarding toggles
+
+[[toggle]]
+	[[to]]
+		condition = "false"
+		triggers = [ "dimension-overworld" "dimension-nether" "dimension-end" ]
+		
+	[[to]]
+		condition = "true"
+		triggers = [ "dimension-overworld_amb" "dimension-nether_amb" "dimension-end_amb" ]
+	
+	[[from]]
+	    condition = "3"
+		triggers = [ "dimension-overworld" ]
+	
+	[[from]]
+	    condition = "3"
+		triggers = [ "dimension-nether" ]
+	
+	[[from]]
+	    condition = "3"
+		triggers = [ "dimension-end" ]
+		
+		
+[[toggle]]
+	[[to]]
+		condition = "true"
+		triggers = [ "dimension-overworld" "dimension-nether" "dimension-end" ]
+		
+	[[to]]
+		condition = "false"
+		triggers = [ "dimension-overworld_amb" "dimension-nether_amb" "dimension-end_amb" ]
+	
+	[[from]]
+	    condition = "3"
+		triggers = [ "dimension-overworld_amb" ]
+	
+	[[from]]
+	    condition = "3"
+		triggers = [ "dimension-nether_amb" ]
+	
+	[[from]]
+	    condition = "3"
+		triggers = [ "dimension-end_amb" ]

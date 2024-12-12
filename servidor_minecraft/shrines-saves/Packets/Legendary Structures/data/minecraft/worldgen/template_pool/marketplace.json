@@ -1,0 +1,1 @@
+{"name":"minecraft:marketplace","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"shrines:marketplace","processors":"shrines:default_processors","projection":"rigid","element_type":"minecraft:single_pool_element"}}]}

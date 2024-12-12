@@ -1,0 +1,53 @@
+{
+  "biomes": [
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:crimson_forest"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:crimson_garden"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "biomesoplenty:visceral_heap"
+      }
+    ],
+	[
+	  {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "betternether:nether_swampland"
+      }
+	],
+	[
+	  {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "betternether:nether_swampland_terraces"
+      }
+	],
+	[
+	  {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "betternether:old_swampland"
+      }
+	],
+	[
+	  {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "betternether:wart_forest"
+      }
+	]
+  ]
+}

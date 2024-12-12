@@ -1,0 +1,62 @@
+{
+  "biomes": [
+    {
+      "biome": "default",
+      "spawn_info": {
+        "spawn_rate": 5,
+        "min_count": 1,
+        "max_count": 3
+      }
+    },
+    {
+      "biome": "minecraft:crimson_forest",
+      "spawn_info": {
+        "spawn_rate": 30,
+        "min_count": 1,
+        "max_count": 1,
+        "spawn_cost_per_entity": 16.2,
+        "max_spawn_cost": 0.1
+      }
+    },
+    {
+      "biome": "betternether:nether_swampland",
+      "spawn_info": {
+        "spawn_rate": 30,
+        "min_count": 1,
+        "max_count": 1,
+        "spawn_cost_per_entity": 16.2,
+        "max_spawn_cost": 0.1
+      }
+    },
+    {
+      "biome": "betternether:nether_swampland_terraces",
+      "spawn_info": {
+        "spawn_rate": 30,
+        "min_count": 1,
+        "max_count": 1,
+        "spawn_cost_per_entity": 16.2,
+        "max_spawn_cost": 0.1
+      }
+    },
+    {
+      "biome": "betternether:old_swampland",
+      "spawn_info": {
+        "spawn_rate": 30,
+        "min_count": 1,
+        "max_count": 1,
+        "spawn_cost_per_entity": 16.2,
+        "max_spawn_cost": 0.1
+      }
+    },
+    {
+      "biome": "byg:crimson_gardens",
+      "spawn_info": {
+        "spawn_rate": 30,
+        "min_count": 1,
+        "max_count": 1,
+        "spawn_cost_per_entity": 16.2,
+        "max_spawn_cost": 0.1
+      }
+    }
+  ]
+}

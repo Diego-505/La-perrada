@@ -1,0 +1,114 @@
+
+#List of affix configurations
+[[affixes]]
+	identifier = "adaptable"
+	mobList = ["cataclysm:ender_golem", "cataclysm:netherite_monstrosity", "cataclysm:ender_guardian", "mutantbeasts:mutant_skeleton", "goblinsanddungeons:goblin_king", "mowziesmobs:frostmaw", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mutantmore:mutant_husk", "mutantmore:mutant_wither_skeleton", "mutantmore:mutant_shulker", "mutantmore:mutant_blaze", "mutantmore:mutant_hoglin", "mutantbeasts:mutant_zombie", "mutantbeasts:mutant_enderman"]
+	mobPermission = "BLACKLIST"
+	minTier = 3
+	enabled = true
+
+[[affixes]]
+	identifier = "arctic"
+	mobList = ["cataclysm:ender_golem", "cataclysm:netherite_monstrosity", "cataclysm:ender_guardian", "mutantbeasts:mutant_skeleton", "goblinsanddungeons:goblin_king", "mowziesmobs:frostmaw", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mutantmore:mutant_husk", "mutantmore:mutant_wither_skeleton", "mutantmore:mutant_shulker", "mutantmore:mutant_blaze", "mutantmore:mutant_hoglin", "mutantbeasts:mutant_zombie", "mutantbeasts:mutant_enderman"]
+	mobPermission = "BLACKLIST"
+	minTier = 1
+	enabled = true
+
+[[affixes]]
+	identifier = "dampening"
+	mobList = ["cataclysm:ender_golem", "cataclysm:netherite_monstrosity", "cataclysm:ender_guardian", "mutantbeasts:mutant_skeleton", "goblinsanddungeons:goblin_king", "mowziesmobs:frostmaw", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mutantmore:mutant_husk", "mutantmore:mutant_wither_skeleton", "mutantmore:mutant_shulker", "mutantmore:mutant_blaze", "mutantmore:mutant_hoglin", "mutantbeasts:mutant_zombie", "mutantbeasts:mutant_enderman"]
+	mobPermission = "BLACKLIST"
+	minTier = 2
+	enabled = true
+
+[[affixes]]
+	identifier = "desecrating"
+	mobList = ["cataclysm:ender_golem", "cataclysm:netherite_monstrosity", "cataclysm:ender_guardian", "mutantbeasts:mutant_skeleton", "goblinsanddungeons:goblin_king", "mowziesmobs:frostmaw", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mutantmore:mutant_husk", "mutantmore:mutant_wither_skeleton", "mutantmore:mutant_shulker", "mutantmore:mutant_blaze", "mutantmore:mutant_hoglin", "mutantbeasts:mutant_zombie", "mutantbeasts:mutant_enderman"]
+	mobPermission = "BLACKLIST"
+	minTier = 2
+	enabled = true
+
+[[affixes]]
+	identifier = "enkindling"
+	mobList = ["cataclysm:ender_golem", "cataclysm:netherite_monstrosity", "cataclysm:ender_guardian", "mutantbeasts:mutant_skeleton", "goblinsanddungeons:goblin_king", "mowziesmobs:frostmaw", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mutantmore:mutant_husk", "mutantmore:mutant_wither_skeleton", "mutantmore:mutant_shulker", "mutantmore:mutant_blaze", "mutantmore:mutant_hoglin", "mutantbeasts:mutant_zombie", "mutantbeasts:mutant_enderman"]
+	mobPermission = "BLACKLIST"
+	minTier = 1
+	enabled = true
+
+[[affixes]]
+	identifier = "hasty"
+	mobList = ["cataclysm:ender_golem", "cataclysm:netherite_monstrosity", "cataclysm:ender_guardian", "mutantbeasts:mutant_skeleton", "goblinsanddungeons:goblin_king", "mowziesmobs:frostmaw", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mutantmore:mutant_husk", "mutantmore:mutant_wither_skeleton", "mutantmore:mutant_shulker", "mutantmore:mutant_blaze", "mutantmore:mutant_hoglin", "mutantbeasts:mutant_zombie", "mutantbeasts:mutant_enderman"]
+	mobPermission = "BLACKLIST"
+	minTier = 1
+	enabled = true
+
+[[affixes]]
+	identifier = "infested"
+	mobList = ["cataclysm:ender_golem", "cataclysm:netherite_monstrosity", "cataclysm:ender_guardian", "mutantbeasts:mutant_skeleton", "goblinsanddungeons:goblin_king", "mowziesmobs:frostmaw", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mutantmore:mutant_husk", "mutantmore:mutant_wither_skeleton", "mutantmore:mutant_shulker", "mutantmore:mutant_blaze", "mutantmore:mutant_hoglin", "mutantbeasts:mutant_zombie", "mutantbeasts:mutant_enderman"]
+	mobPermission = "BLACKLIST"
+	minTier = 2
+	enabled = true
+
+[[affixes]]
+	identifier = "knocking"
+	mobList = ["cataclysm:ender_golem", "cataclysm:netherite_monstrosity", "cataclysm:ender_guardian", "mutantbeasts:mutant_skeleton", "goblinsanddungeons:goblin_king", "mowziesmobs:frostmaw", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mutantmore:mutant_husk", "mutantmore:mutant_wither_skeleton", "mutantmore:mutant_shulker", "mutantmore:mutant_blaze", "mutantmore:mutant_hoglin", "mutantbeasts:mutant_zombie", "mutantbeasts:mutant_enderman"]
+	mobPermission = "BLACKLIST"
+	minTier = 1
+	enabled = true
+
+[[affixes]]
+	identifier = "lively"
+	mobList = ["cataclysm:ender_golem", "cataclysm:netherite_monstrosity", "cataclysm:ender_guardian", "mutantbeasts:mutant_skeleton", "goblinsanddungeons:goblin_king", "mowziesmobs:frostmaw", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mutantmore:mutant_husk", "mutantmore:mutant_wither_skeleton", "mutantmore:mutant_shulker", "mutantmore:mutant_blaze", "mutantmore:mutant_hoglin", "mutantbeasts:mutant_zombie", "mutantbeasts:mutant_enderman"]
+	mobPermission = "BLACKLIST"
+	minTier = 1
+	enabled = true
+
+[[affixes]]
+	identifier = "magnetic"
+	mobList = ["cataclysm:ender_golem", "cataclysm:netherite_monstrosity", "cataclysm:ender_guardian", "mutantbeasts:mutant_skeleton", "goblinsanddungeons:goblin_king", "mowziesmobs:frostmaw", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mutantmore:mutant_husk", "mutantmore:mutant_wither_skeleton", "mutantmore:mutant_shulker", "mutantmore:mutant_blaze", "mutantmore:mutant_hoglin", "mutantbeasts:mutant_zombie", "mutantbeasts:mutant_enderman"]
+	mobPermission = "BLACKLIST"
+	minTier = 1
+	enabled = true
+
+[[affixes]]
+	identifier = "molten"
+	mobList = ["cataclysm:ender_golem", "cataclysm:netherite_monstrosity", "cataclysm:ender_guardian", "mutantbeasts:mutant_skeleton", "goblinsanddungeons:goblin_king", "mowziesmobs:frostmaw", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mutantmore:mutant_husk", "mutantmore:mutant_wither_skeleton", "mutantmore:mutant_shulker", "mutantmore:mutant_blaze", "mutantmore:mutant_hoglin", "mutantbeasts:mutant_zombie", "mutantbeasts:mutant_enderman", "minecraft:drowned", "dungeons_mobs:sunken_skeleton", "dungeons_mobs:wavewhisperer", "dungeons_mobs:poison_anemone", "dungeons_mobs:armored_drowned", "dungeons_mobs:armored_sunken_skeleton", "upgrade_aquatic:great_thrasher", "upgrade_aquatic:thrasher"]
+	mobPermission = "BLACKLIST"
+	minTier = 1
+	enabled = true
+
+[[affixes]]
+	identifier = "paralyzing"
+	mobList = ["cataclysm:ender_golem", "cataclysm:netherite_monstrosity", "cataclysm:ender_guardian", "mutantbeasts:mutant_skeleton", "goblinsanddungeons:goblin_king", "mowziesmobs:frostmaw", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mutantmore:mutant_husk", "mutantmore:mutant_wither_skeleton", "mutantmore:mutant_shulker", "mutantmore:mutant_blaze", "mutantmore:mutant_hoglin", "mutantbeasts:mutant_zombie", "mutantbeasts:mutant_enderman"]
+	mobPermission = "BLACKLIST"
+	minTier = 3
+	enabled = true
+
+[[affixes]]
+	identifier = "plagued"
+	mobList = ["cataclysm:ender_golem", "cataclysm:netherite_monstrosity", "cataclysm:ender_guardian", "mutantbeasts:mutant_skeleton", "goblinsanddungeons:goblin_king", "mowziesmobs:frostmaw", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mutantmore:mutant_husk", "mutantmore:mutant_wither_skeleton", "mutantmore:mutant_shulker", "mutantmore:mutant_blaze", "mutantmore:mutant_hoglin", "mutantbeasts:mutant_zombie", "mutantbeasts:mutant_enderman"]
+	mobPermission = "BLACKLIST"
+	minTier = 4
+	enabled = false
+
+[[affixes]]
+	identifier = "reflective"
+	mobList = ["cataclysm:ender_golem", "cataclysm:netherite_monstrosity", "cataclysm:ender_guardian", "mutantbeasts:mutant_skeleton", "goblinsanddungeons:goblin_king", "mowziesmobs:frostmaw", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mutantmore:mutant_husk", "mutantmore:mutant_wither_skeleton", "mutantmore:mutant_shulker", "mutantmore:mutant_blaze", "mutantmore:mutant_hoglin", "mutantbeasts:mutant_zombie", "mutantbeasts:mutant_enderman"]
+	mobPermission = "BLACKLIST"
+	minTier = 3
+	enabled = true
+
+[[affixes]]
+	identifier = "shielding"
+	mobList = ["cataclysm:ender_golem", "cataclysm:netherite_monstrosity", "cataclysm:ender_guardian", "mutantbeasts:mutant_skeleton", "goblinsanddungeons:goblin_king", "mowziesmobs:frostmaw", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mutantmore:mutant_husk", "mutantmore:mutant_wither_skeleton", "mutantmore:mutant_shulker", "mutantmore:mutant_blaze", "mutantmore:mutant_hoglin", "mutantbeasts:mutant_zombie", "mutantbeasts:mutant_enderman"]
+	mobPermission = "BLACKLIST"
+	minTier = 2
+	enabled = true
+
+[[affixes]]
+	identifier = "wounding"
+	mobList = ["cataclysm:ender_golem", "cataclysm:netherite_monstrosity", "cataclysm:ender_guardian", "mutantbeasts:mutant_skeleton", "goblinsanddungeons:goblin_king", "mowziesmobs:frostmaw", "mowziesmobs:barako", "mowziesmobs:ferrous_wroughtnaut", "mutantmore:mutant_husk", "mutantmore:mutant_wither_skeleton", "mutantmore:mutant_shulker", "mutantmore:mutant_blaze", "mutantmore:mutant_hoglin", "mutantbeasts:mutant_zombie", "mutantbeasts:mutant_enderman"]
+	mobPermission = "BLACKLIST"
+	minTier = 1
+	enabled = true
+

@@ -1,0 +1,1 @@
+{"name":"minecraft:desert_dungeon","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"shrines:desert_dungeon","processors":"shrines:default_processors","projection":"rigid","element_type":"minecraft:single_pool_element"}}]}

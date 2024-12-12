@@ -1,0 +1,1 @@
+{"name":"minecraft:small_hut","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"shrines:small_hut","processors":"shrines:default_processors","projection":"rigid","element_type":"minecraft:single_pool_element"}}]}

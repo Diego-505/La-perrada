@@ -1,0 +1,1 @@
+{"name":"minecraft:cottage_gate","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"shrines:cottage_gate","processors":"shrines:default_processors","projection":"rigid","element_type":"minecraft:single_pool_element"}}]}

@@ -1,0 +1,1 @@
+{"name":"minecraft:lighthouse","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"shrines:light_house","processors":"shrines:default_processors","projection":"rigid","element_type":"minecraft:single_pool_element"}}]}

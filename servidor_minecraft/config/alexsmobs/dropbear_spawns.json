@@ -1,0 +1,39 @@
+{
+  "biomes": [
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:nether_wastes"
+      }
+    ],
+	[
+	  {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "betternether:upside_down_forest"
+      }
+	],
+	[
+	  {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "betternether:nether_swampland"
+      }
+	],
+	[
+	  {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "betternether:nether_swampland_terraces"
+      }
+	],
+	[
+	  {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "betternether:old_swampland"
+      }
+	]
+  ]
+}

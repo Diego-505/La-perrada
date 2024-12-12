@@ -1,0 +1,38 @@
+{
+  "profession": "guildmaster",
+  "removeOtherTrades": false,
+  "trades": [
+	{
+	"offer": {
+    "itemKey": "minecraft:filled_map",
+    "customName": "Pirate Dungeon Map",
+    "amount": 1,
+		"mapStructure": "shrines:pirate_dungeon"
+  },
+        "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 50,
+        "priceModifier": 0
+      },
+      "tradeExp": 100,
+      "maxUses": 3,
+      "priceMultiplier": 0.1,
+      "tradeLevel": 1
+    },
+	{
+	"offer": {
+    "itemKey": "legendary_additions:forest_key",
+    "amount": 1
+  },
+        "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 20,
+        "priceModifier": 0
+      },
+      "tradeExp": 20,
+      "maxUses": 5,
+      "priceMultiplier": 0.1,
+      "tradeLevel": 1
+    }
+  ]
+}
