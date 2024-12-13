@@ -1,8 +1,8 @@
 
 # Options related to the Meat Rack. It is used to decay rotten meat to leather and then to bone
 [MeatRack]
-	"Tick Amount Before Leather" = 2400
 	"Tick Amount Before Bone" = 2400
+	"Tick Amount Before Leather" = 2400
 
 # Options related to the Honey Pond. It is used to heal the player and can be recharger with honey bottle
 [HoneyPond]
@@ -20,44 +20,44 @@
 	"Chance Of Explosion" = 0.03
 
 [Obelisk]
-	" Default Obelisk Xp Values In Creative Tab" = [250, 500, 1000, 1500]
 	" Can Obelisk Be Destroyed" = false
+	" Default Obelisk Xp Values In Creative Tab" = [250, 500, 1000, 1500]
 
 [Flowers]
 
-	[Flowers.CloverPatch]
-		# In Which Biome Names The Clover Patch Will Spawn
-		"Clover Patch Biome Names Spawn List" = ["PLAINS", "FOREST", "TAIGA"]
-		# In Which Biome Categories The Clover Patch Will Spawn
-		"Clover Patch Biome Categories Spawn List" = ["PLAINS", "FOREST", "TAIGA"]
-		# Number of tries to spawn a group of clover patch
-		#Range: > 0
-		"Clover Patch Tries" = 2
-		# Number of clover patches that spawn in the same time
-		#Range: > 0
-		"Clover Patch Count" = 2
-
 	[Flowers.GlowingBulb]
-		# In Which Biome Names The Glowing Bulb Will Spawn
-		"Glowing Bulb Biome Names Spawn List" = ["PLAINS", "FOREST", "TAIGA", "SWAMP", "JUNGLE"]
 		# In Which Biome Categories The Glowing Bulb Will Spawn
 		"Glowing Bulb Biome Categories Spawn List" = ["PLAINS", "FOREST", "TAIGA"]
+		# In Which Biome Names The Glowing Bulb Will Spawn
+		"Glowing Bulb Biome Names Spawn List" = ["PLAINS", "FOREST", "TAIGA", "SWAMP", "JUNGLE"]
 		# 1/X chance to spawn a glowing bulb patch per chunk. Increasing this number reduces the spawn chance.
 		#Range: > 1
 		"Glowing Bulb Chance Spawn" = 50
 
+	[Flowers.CloverPatch]
+		# In Which Biome Categories The Clover Patch Will Spawn
+		"Clover Patch Biome Categories Spawn List" = ["PLAINS", "FOREST", "TAIGA"]
+		# Number of clover patches that spawn in the same time
+		#Range: > 0
+		"Clover Patch Count" = 2
+		# In Which Biome Names The Clover Patch Will Spawn
+		"Clover Patch Biome Names Spawn List" = ["PLAINS", "FOREST", "TAIGA"]
+		# Number of tries to spawn a group of clover patch
+		#Range: > 0
+		"Clover Patch Tries" = 2
+
 [DungeonGates]
 
 	[DungeonGates.ForestDungeonGate]
-		" Can Forest Dungeon Gate Be Closed Back" = false
-		" Will Forest Dungeon Gate Open When Unlocked" = false
 		" Can Forest Dungeon Gate Be Destroyed" = false
-		" Can Forest Dungeon Gate Be Dropped" = false
-		" Can Forest Dungeon Gate Drop Keys On Break" = false
 		" Items To Unlock Lock1" = ["legendary_additions:forest_key"]
+		" Can Forest Dungeon Gate Be Closed Back" = false
+		" Mob Check Frequency In Ticks" = 20
+		" Can Forest Dungeon Gate Be Dropped" = false
+		" Will Forest Dungeon Gate Open When Unlocked" = false
 		# To choose a mob for which its presence forces the gate to stay locked, use an entity spawn egg and use it on the gate in creative mode.
 		" Mob Check Range In Blocks" = 20
-		" Mob Check Frequency In Ticks" = 20
+		" Can Forest Dungeon Gate Drop Keys On Break" = false
 
 [DungeonHearts]
 
@@ -67,13 +67,13 @@
 		" Block Break Disabled While Dungeon Heart Active" = true
 
 	[DungeonHearts.ForestDungeonHeartBlock]
+		#No item defined means no item needed to deactivate it
+		" Item Use To Deactivate Forest Dungeon Heart" = "minecraft:apple"
+		" Can Forest Dungeon Heart Be Dropped" = true
+		" Can Forest Dungeon Heart Be Deactivated By Receiving RedStone Signal" = true
 		#If Forest Dungeon Heart can't be destroyed, this configuration is de facto set to false
 		" Can Forest Dungeon Heart Be Destroyed While Active" = true
 		" Can Forest Dungeon Heart Be Destroyed" = true
-		" Can Forest Dungeon Heart Be Dropped" = true
-		#No item defined means no item needed to deactivate it
-		" Item Use To Deactivate Forest Dungeon Heart" = "minecraft:apple"
-		" Can Forest Dungeon Heart Be Deactivated By Receiving RedStone Signal" = true
 
 [Spawners]
 
