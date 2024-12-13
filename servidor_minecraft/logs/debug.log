@@ -14578,3 +14578,182 @@ Failed to parse wythers: worldgen/configured_feature/giant_taiga/feature_tree_gi
 [13Dec2024 06:09:27.922] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_scuttler
 [13Dec2024 06:09:54.671] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_horse
 [13Dec2024 06:09:56.922] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_scuttler
+[13Dec2024 06:10:08.021] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_knight
+[13Dec2024 06:10:10.172] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_beast
+[13Dec2024 06:10:14.624] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_horse
+[13Dec2024 06:10:22.322] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_ghoul
+[13Dec2024 06:10:42.172] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_beast
+[13Dec2024 06:10:45.336] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Alexia'/206, l='ServerLevel[world]', x=-203.50, y=70.00, z=120.60] died, message: 'Alexia was shot by Pillager using    [Pillager's Crossbow]'
+[13Dec2024 06:10:57.623] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_knight
+[13Dec2024 06:11:00.271] [Server thread/ERROR] [com.telepathicgrunt.blame.Blame/]: 
+****************** Blame Report Loot Table 1.16.5-3.7.0-forge ******************
+
+ Found a Loot Table path that does not exist:  minecraft:equipment/witch_mainhand
+ The path represented by this Loot Table is:  data/minecraft/loot_tables/equipment/witch_mainhand.json
+ Loot Table method called at:  daripher.autoleveling.event.MobsLevelingEvents.getEquipmentLootTableForSlot
+                               daripher.autoleveling.event.MobsLevelingEvents.addEquipment
+ Most common cause is that the Loot Table file is not actually at that location. (Although this could be intentional by mod author)
+ Please let the mod author know about this so they can check to see if their Loot Table is correct.
+
+[13Dec2024 06:11:00.272] [Server thread/ERROR] [com.telepathicgrunt.blame.Blame/]: 
+****************** Blame Report Loot Table 1.16.5-3.7.0-forge ******************
+
+ Found a Loot Table path that does not exist:  minecraft:equipment/witch_offhand
+ The path represented by this Loot Table is:  data/minecraft/loot_tables/equipment/witch_offhand.json
+ Loot Table method called at:  daripher.autoleveling.event.MobsLevelingEvents.getEquipmentLootTableForSlot
+                               daripher.autoleveling.event.MobsLevelingEvents.addEquipment
+ Most common cause is that the Loot Table file is not actually at that location. (Although this could be intentional by mod author)
+ Please let the mod author know about this so they can check to see if their Loot Table is correct.
+
+[13Dec2024 06:11:00.273] [Server thread/ERROR] [com.telepathicgrunt.blame.Blame/]: 
+****************** Blame Report Loot Table 1.16.5-3.7.0-forge ******************
+
+ Found a Loot Table path that does not exist:  minecraft:equipment/witch_feet
+ The path represented by this Loot Table is:  data/minecraft/loot_tables/equipment/witch_feet.json
+ Loot Table method called at:  daripher.autoleveling.event.MobsLevelingEvents.getEquipmentLootTableForSlot
+                               daripher.autoleveling.event.MobsLevelingEvents.addEquipment
+ Most common cause is that the Loot Table file is not actually at that location. (Although this could be intentional by mod author)
+ Please let the mod author know about this so they can check to see if their Loot Table is correct.
+
+[13Dec2024 06:11:00.273] [Server thread/ERROR] [com.telepathicgrunt.blame.Blame/]: 
+****************** Blame Report Loot Table 1.16.5-3.7.0-forge ******************
+
+ Found a Loot Table path that does not exist:  minecraft:equipment/witch_legs
+ The path represented by this Loot Table is:  data/minecraft/loot_tables/equipment/witch_legs.json
+ Loot Table method called at:  daripher.autoleveling.event.MobsLevelingEvents.getEquipmentLootTableForSlot
+                               daripher.autoleveling.event.MobsLevelingEvents.addEquipment
+ Most common cause is that the Loot Table file is not actually at that location. (Although this could be intentional by mod author)
+ Please let the mod author know about this so they can check to see if their Loot Table is correct.
+
+[13Dec2024 06:11:00.273] [Server thread/ERROR] [com.telepathicgrunt.blame.Blame/]: 
+****************** Blame Report Loot Table 1.16.5-3.7.0-forge ******************
+
+ Found a Loot Table path that does not exist:  minecraft:equipment/witch_chest
+ The path represented by this Loot Table is:  data/minecraft/loot_tables/equipment/witch_chest.json
+ Loot Table method called at:  daripher.autoleveling.event.MobsLevelingEvents.getEquipmentLootTableForSlot
+                               daripher.autoleveling.event.MobsLevelingEvents.addEquipment
+ Most common cause is that the Loot Table file is not actually at that location. (Although this could be intentional by mod author)
+ Please let the mod author know about this so they can check to see if their Loot Table is correct.
+
+[13Dec2024 06:11:00.273] [Server thread/ERROR] [com.telepathicgrunt.blame.Blame/]: 
+****************** Blame Report Loot Table 1.16.5-3.7.0-forge ******************
+
+ Found a Loot Table path that does not exist:  minecraft:equipment/witch_head
+ The path represented by this Loot Table is:  data/minecraft/loot_tables/equipment/witch_head.json
+ Loot Table method called at:  daripher.autoleveling.event.MobsLevelingEvents.getEquipmentLootTableForSlot
+                               daripher.autoleveling.event.MobsLevelingEvents.addEquipment
+ Most common cause is that the Loot Table file is not actually at that location. (Although this could be intentional by mod author)
+ Please let the mod author know about this so they can check to see if their Loot Table is correct.
+
+[13Dec2024 06:11:18.721] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_knight
+[13Dec2024 06:11:24.021] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_horse
+[13Dec2024 06:11:41.121] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_beast
+[13Dec2024 06:11:47.522] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_horse
+[13Dec2024 06:12:09.321] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_knight
+[13Dec2024 06:12:17.129] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[13Dec2024 06:12:17.147] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[13Dec2024 06:12:47.071] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_ghoul
+[13Dec2024 06:12:47.121] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_ghoul
+[13Dec2024 06:12:59.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Myth_Pool has made the advancement [Stone Age]
+[13Dec2024 06:13:00.972] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_beast
+[13Dec2024 06:13:32.372] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_ghoul
+[13Dec2024 06:13:40.074] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_ghoul
+[13Dec2024 06:13:40.075] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_ghoul
+[13Dec2024 06:13:40.075] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_ghoul
+[13Dec2024 06:13:44.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Myth_Pool has made the advancement [Getting an Upgrade]
+[13Dec2024 06:14:01.173] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_knight
+[13Dec2024 06:14:11.672] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_ghoul
+[13Dec2024 06:14:59.171] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_ghoul
+[13Dec2024 06:15:00.423] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_scuttler
+[13Dec2024 06:15:04.121] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_ghoul
+[13Dec2024 06:15:04.122] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_lich
+[13Dec2024 06:15:04.125] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_horse
+[13Dec2024 06:15:12.321] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_horse
+[13Dec2024 06:15:52.389] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11083 in minecraft:the_nether
+[13Dec2024 06:15:52.389] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11083 in minecraft:the_end
+[13Dec2024 06:15:52.420] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11083 in minecraft:overworld
+[13Dec2024 06:16:06.271] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_beast
+[13Dec2024 06:16:15.823] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_beast
+[13Dec2024 06:17:01.173] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_ghoul
+[13Dec2024 06:17:01.174] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_ghoul
+[13Dec2024 06:17:03.271] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_ghoul
+[13Dec2024 06:17:04.222] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_knight
+[13Dec2024 06:17:17.062] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[13Dec2024 06:17:17.080] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[13Dec2024 06:17:30.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Myth_Pool has made the advancement [A Seedy Place]
+[13Dec2024 06:18:53.272] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_lich
+[13Dec2024 06:18:55.622] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_scuttler
+[13Dec2024 06:19:08.523] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_ghoul
+[13Dec2024 06:19:08.524] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_lich
+[13Dec2024 06:19:08.921] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_scuttler
+[13Dec2024 06:19:10.497] [Server thread/ERROR] [com.telepathicgrunt.blame.Blame/]: 
+****************** Blame Report Loot Table 1.16.5-3.7.0-forge ******************
+
+ Found a Loot Table path that does not exist:  legendarycreatures:equipment/scarecrow_mainhand
+ The path represented by this Loot Table is:  data/legendarycreatures/loot_tables/equipment/scarecrow_mainhand.json
+ Loot Table method called at:  daripher.autoleveling.event.MobsLevelingEvents.getEquipmentLootTableForSlot
+                               daripher.autoleveling.event.MobsLevelingEvents.addEquipment
+ Most common cause is that the Loot Table file is not actually at that location. (Although this could be intentional by mod author)
+ Please let the mod author know about this so they can check to see if their Loot Table is correct.
+
+[13Dec2024 06:19:10.498] [Server thread/ERROR] [com.telepathicgrunt.blame.Blame/]: 
+****************** Blame Report Loot Table 1.16.5-3.7.0-forge ******************
+
+ Found a Loot Table path that does not exist:  legendarycreatures:equipment/scarecrow_offhand
+ The path represented by this Loot Table is:  data/legendarycreatures/loot_tables/equipment/scarecrow_offhand.json
+ Loot Table method called at:  daripher.autoleveling.event.MobsLevelingEvents.getEquipmentLootTableForSlot
+                               daripher.autoleveling.event.MobsLevelingEvents.addEquipment
+ Most common cause is that the Loot Table file is not actually at that location. (Although this could be intentional by mod author)
+ Please let the mod author know about this so they can check to see if their Loot Table is correct.
+
+[13Dec2024 06:19:10.498] [Server thread/ERROR] [com.telepathicgrunt.blame.Blame/]: 
+****************** Blame Report Loot Table 1.16.5-3.7.0-forge ******************
+
+ Found a Loot Table path that does not exist:  legendarycreatures:equipment/scarecrow_feet
+ The path represented by this Loot Table is:  data/legendarycreatures/loot_tables/equipment/scarecrow_feet.json
+ Loot Table method called at:  daripher.autoleveling.event.MobsLevelingEvents.getEquipmentLootTableForSlot
+                               daripher.autoleveling.event.MobsLevelingEvents.addEquipment
+ Most common cause is that the Loot Table file is not actually at that location. (Although this could be intentional by mod author)
+ Please let the mod author know about this so they can check to see if their Loot Table is correct.
+
+[13Dec2024 06:19:10.498] [Server thread/ERROR] [com.telepathicgrunt.blame.Blame/]: 
+****************** Blame Report Loot Table 1.16.5-3.7.0-forge ******************
+
+ Found a Loot Table path that does not exist:  legendarycreatures:equipment/scarecrow_legs
+ The path represented by this Loot Table is:  data/legendarycreatures/loot_tables/equipment/scarecrow_legs.json
+ Loot Table method called at:  daripher.autoleveling.event.MobsLevelingEvents.getEquipmentLootTableForSlot
+                               daripher.autoleveling.event.MobsLevelingEvents.addEquipment
+ Most common cause is that the Loot Table file is not actually at that location. (Although this could be intentional by mod author)
+ Please let the mod author know about this so they can check to see if their Loot Table is correct.
+
+[13Dec2024 06:19:10.498] [Server thread/ERROR] [com.telepathicgrunt.blame.Blame/]: 
+****************** Blame Report Loot Table 1.16.5-3.7.0-forge ******************
+
+ Found a Loot Table path that does not exist:  legendarycreatures:equipment/scarecrow_chest
+ The path represented by this Loot Table is:  data/legendarycreatures/loot_tables/equipment/scarecrow_chest.json
+ Loot Table method called at:  daripher.autoleveling.event.MobsLevelingEvents.getEquipmentLootTableForSlot
+                               daripher.autoleveling.event.MobsLevelingEvents.addEquipment
+ Most common cause is that the Loot Table file is not actually at that location. (Although this could be intentional by mod author)
+ Please let the mod author know about this so they can check to see if their Loot Table is correct.
+
+[13Dec2024 06:19:10.498] [Server thread/ERROR] [com.telepathicgrunt.blame.Blame/]: 
+****************** Blame Report Loot Table 1.16.5-3.7.0-forge ******************
+
+ Found a Loot Table path that does not exist:  legendarycreatures:equipment/scarecrow_head
+ The path represented by this Loot Table is:  data/legendarycreatures/loot_tables/equipment/scarecrow_head.json
+ Loot Table method called at:  daripher.autoleveling.event.MobsLevelingEvents.getEquipmentLootTableForSlot
+                               daripher.autoleveling.event.MobsLevelingEvents.addEquipment
+ Most common cause is that the Loot Table file is not actually at that location. (Although this could be intentional by mod author)
+ Please let the mod author know about this so they can check to see if their Loot Table is correct.
+
+[13Dec2024 06:19:12.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Myth_Pool was slain by Scarecrow
+[13Dec2024 06:19:27.122] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_beast
+[13Dec2024 06:19:27.123] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_knight
+[13Dec2024 06:19:27.674] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_knight
+[13Dec2024 06:19:28.673] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.iceandfire.dread_ghoul
+[13Dec2024 06:19:38.192] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 06:19:38.348] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 06:19:38.808] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 06:19:39.603] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 06:19:51.002] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 06:19:52.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Myth_Pool was slain by Scarecrow
