@@ -1,1 +1,0 @@
-{"name":"minecraft:big_tavern","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"shrines:big_tavern","processors":"shrines:default_processors","projection":"rigid","element_type":"minecraft:single_pool_element"}}]}

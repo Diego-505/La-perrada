@@ -2,38 +2,70 @@
   "biomes": [
     [
       {
-        "type": "BIOME_DICT",
+        "type": "BIOME_TAG",
         "negate": false,
-        "value": "overworld"
+        "value": "minecraft:is_overworld"
       },
       {
-        "type": "REGISTRY_NAME",
+        "type": "BIOME_TAG",
         "negate": false,
-        "value": "minecraft:snowy_mountains"
+        "value": "forge:is_sparse"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": false,
+        "value": "forge:is_snowy"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": false,
+        "value": "forge:is_mountain"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": false,
+        "value": "forge:is_peak"
       }
     ],
     [
       {
-        "type": "BIOME_DICT",
+        "type": "BIOME_TAG",
         "negate": false,
-        "value": "overworld"
+        "value": "minecraft:is_overworld"
       },
       {
-        "type": "REGISTRY_NAME",
+        "type": "BIOME_TAG",
         "negate": false,
-        "value": "minecraft:snowy_taiga_hills"
+        "value": "forge:is_sparse"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": false,
+        "value": "forge:is_snowy"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": false,
+        "value": "forge:is_mountain"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": false,
+        "value": "forge:is_slope"
       }
     ],
     [
       {
-        "type": "BIOME_DICT",
+        "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "overworld"
-      },
+        "value": "regions_unexplored:towering_cliffs"
+      }
+    ],
+    [
       {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "minecraft:snowy_taiga_mountains"
+        "value": "terralith:rocky_mountains"
       }
     ]
   ]

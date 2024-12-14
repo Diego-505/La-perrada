@@ -2,26 +2,28 @@
   "biomes": [
     [
       {
-        "type": "BIOME_DICT",
+        "type": "BIOME_TAG",
         "negate": false,
-        "value": "overworld"
+        "value": "minecraft:is_overworld"
       },
       {
-        "type": "BIOME_DICT",
+        "type": "BIOME_TAG",
         "negate": false,
-        "value": "ocean"
+        "value": "minecraft:is_ocean"
       }
     ],
     [
       {
-        "type": "BIOME_DICT",
+        "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "overworld"
-      },
+        "value": "regions_unexplored:rocky_reef"
+      }
+    ],
+    [
       {
-        "type": "BIOME_CATEGORY",
+        "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "ocean"
+        "value": "regions_unexplored:hyacinth_deeps"
       }
     ]
   ]

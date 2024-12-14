@@ -1,0 +1,12 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:wither",
+    "minecraft:ender_dragon",
+    "minecraft:elder_guardian",
+    "iceandfire:gorgon",
+    "iceandfire:fire_dragon",
+    "iceandfire:ice_dragon",
+    "iceandfire:lightning_dragon"
+  ]
+}

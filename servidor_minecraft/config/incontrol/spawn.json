@@ -1,0 +1,42 @@
+[
+  {
+    "mob": "doom_and_gloom:holler",
+    "result": "deny"
+  },
+  {
+    "mob": "alexsmobs:crow",
+    "result": "deny"
+  },
+  {
+    "mob": "biomemakeover:owl",
+    "result": "deny"
+  },
+  {
+    "mob": "forbidden_arcanus:lost_soul",
+    "result": "deny"
+  },
+  {
+    "mob": "born_in_chaos_v1:zombie_clown",
+    "result": "deny"
+  },
+  {
+    "mob": "born_in_chaos_v1:zombie_clown_not_despawn",
+    "result": "deny"
+  },
+  {
+    "mob": "eidolon:giant_skeleton",
+    "result": "deny"
+  },
+  {
+    "mob": "eidolon:zombie_brute",
+    "result": "deny"
+  },
+  {
+    "mob": "eidolon:slimy_slug",
+    "result": "deny"
+  },
+  {
+    "mob": "eidolon:wraith",
+    "result": "deny"
+  }
+]

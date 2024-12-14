@@ -1,0 +1,14 @@
+{
+  "processors": [
+    {
+      "processor_type": "idas:waterlogging_fix_processor"
+    },
+    {
+      "processor_type": "integrated_api:integrated_block_replace_processor",
+      "input_block" : "minecraft:cauldron",
+      "required_mod" : "hexerei",
+      "output_block" : "hexerei:mixing_cauldron",
+      "probability" : 1
+    }
+  ]
+}

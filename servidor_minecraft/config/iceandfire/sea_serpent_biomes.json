@@ -2,27 +2,38 @@
   "biomes": [
     [
       {
-        "type": "BIOME_DICT",
+        "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "overworld"
-      },
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "ocean"
+        "value": "regions_unexplored:hyacinth_deeps" 
       }
     ],
     [
       {
-        "type": "BIOME_DICT",
+        "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "overworld"
-      },
-      {
-        "type": "BIOME_CATEGORY",
-        "negate": false,
-        "value": "ocean"
+        "value": "minecraft:deep_ocean" 
       }
-    ]
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:deep_cold_ocea" 
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:deep_frozen_ocean" 
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:frozen_ocean" 
+      }
+    ],
   ]
 }

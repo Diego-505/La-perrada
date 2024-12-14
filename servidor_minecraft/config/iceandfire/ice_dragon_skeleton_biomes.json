@@ -2,26 +2,51 @@
   "biomes": [
     [
       {
-        "type": "BIOME_DICT",
+        "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "overworld"
-      },
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "snowy"
+        "value": "regions_unexplored:spires"
       }
     ],
     [
       {
-        "type": "BIOME_DICT",
+        "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "overworld"
-      },
+        "value": "regions_unexplored:frozen_tundra"
+      }
+    ],
+    [
       {
-        "type": "BIOME_CATEGORY",
+        "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "icy"
+        "value": "regions_unexplored:icy_heights"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:ice_spikes"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:snowy_plains"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:snowy_slopes"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:frozen_peaks"
       }
     ]
   ]

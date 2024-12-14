@@ -2,71 +2,65 @@
   "biomes": [
     [
       {
-        "type": "BIOME_DICT",
+        "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "overworld"
-      },
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "hot"
-      },
-      {
-        "type": "BIOME_DICT",
-        "negate": true,
-        "value": "jungle"
-      },
-      {
-        "type": "BIOME_DICT",
-        "negate": true,
-        "value": "mesa"
-      },
-      {
-        "type": "BIOME_DICT",
-        "negate": true,
-        "value": "savanna"
+        "value": "minecraft:badlands"
       }
     ],
     [
       {
-        "type": "BIOME_DICT",
+        "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "overworld"
-      },
+        "value": "minecraft:eroded_badlands"
+      }
+    ],
+    [
       {
-        "type": "BIOME_DICT",
+        "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "plains"
-      },
+        "value": "regions_unexplored:arid_mountains"
+      }
+    ],
+    [
       {
-        "type": "BIOME_DICT",
-        "negate": true,
-        "value": "wet"
-      },
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "regions_unexplored:outback"
+      }
+    ],
+    [
       {
-        "type": "BIOME_DICT",
-        "negate": true,
-        "value": "cold"
-      },
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "regions_unexplored:steppe"
+      }
+    ],
+    [
       {
-        "type": "BIOME_DICT",
-        "negate": true,
-        "value": "jungle"
-      },
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "regions_unexplored:joshua_desert"
+      }
+    ],
+    [
       {
-        "type": "BIOME_DICT",
-        "negate": true,
-        "value": "mesa"
-      },
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "regions_unexplored:dry_bushland"
+      }
+    ],
+    [
       {
-        "type": "BIOME_DICT",
-        "negate": true,
-        "value": "savanna"
-      },
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "regions_unexplored:baobab_savanna"
+      }
+    ],
+    [
       {
-        "type": "BIOME_DICT",
-        "negate": true,
-        "value": "forest"
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "regions_unexplored:ashen_woodland"
       }
     ]
   ]

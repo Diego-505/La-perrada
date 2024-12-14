@@ -1,0 +1,278 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "none"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "white"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "white"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "light_gray"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "light_gray"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "gray"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "gray"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "black"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "black"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "lime"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "lime"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "green"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "green"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "cyan"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "cyan"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "light_blue"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "light_blue"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "blue"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "blue"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "purple"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "purple"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "magenta"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "magenta"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "pink"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "pink"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "red"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "red"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "orange"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "orange"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "yellow"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "yellow"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "brown"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "brown"
+		},
+		"Name": "everycomp:rd/snifferplus/stone_pine_stool"
+	}
+]

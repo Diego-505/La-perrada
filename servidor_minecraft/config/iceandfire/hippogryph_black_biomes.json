@@ -2,14 +2,23 @@
   "biomes": [
     [
       {
-        "type": "BIOME_DICT",
+        "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "overworld"
-      },
+        "value": "minecraft:badlands"
+      }
+    ],
+    [
       {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "minecraft:desert_hills"
+        "value": "regions_unexplored:arid_mountains"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "terralith:painted_mountains"
       }
     ]
   ]

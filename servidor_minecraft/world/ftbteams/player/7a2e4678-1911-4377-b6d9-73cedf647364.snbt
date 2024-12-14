@@ -1,0 +1,17 @@
+{
+	id: "7a2e4678-1911-4377-b6d9-73cedf647364"
+	type: "player"
+	player_name: "Myth_Pool"
+	ranks: {
+		7a2e4678-1911-4377-b6d9-73cedf647364: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Myth_Pool"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6259FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

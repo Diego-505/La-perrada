@@ -1,0 +1,18 @@
+{
+  "type": "eidolon:ritual_brazier",
+  "focusItems": [],
+  "pedestalItems": [
+    {
+      "tag": "forge:dusts/redstone"
+    },
+    {
+      "tag": "forge:dusts/redstone"
+    }
+  ],
+  "reagent": [
+    {
+      "item": "forbidden_arcanus:arcane_bone_meal"
+    }
+  ],
+  "ritual": "eidolon:crystal"
+}

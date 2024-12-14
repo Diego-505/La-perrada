@@ -1,1 +1,0 @@
-{"name":"minecraft:corn_field","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"shrines:corn_field","processors":"shrines:default_processors","projection":"terrain_matching","element_type":"minecraft:single_pool_element"}}]}

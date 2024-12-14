@@ -1,1 +1,0 @@
-{"name":"minecraft:beach_house_alt","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"shrines:beach_house_alt","processors":"shrines:default_processors","projection":"rigid","element_type":"minecraft:single_pool_element"}}]}

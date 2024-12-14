@@ -2,11 +2,6 @@
   "biomes": [
     [
       {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "overworld"
-      },
-      {
         "type": "REGISTRY_NAME",
         "negate": false,
         "value": "minecraft:bamboo_jungle"
@@ -14,26 +9,72 @@
     ],
     [
       {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "overworld"
-      },
-      {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "minecraft:bamboo_jungle_hills"
+        "value": "regions_unexplored:bamboo_forest"
       }
     ],
     [
       {
-        "type": "BIOME_DICT",
+        "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "overworld"
-      },
+        "value": "regions_unexplored:eucalyptus_forest"
+      }
+    ],
+    [
       {
-        "type": "BIOME_DICT",
+        "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "jungle"
+        "value": "biomesoplenty:bamboo_grove"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:cherry_grove"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "terralith:sakura_grove"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "terralith:sakura_valley"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "terralith:amethyst_canyon"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "terralith:amethyst_rainforest"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "terralith:skylands_spring"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "biomesoplenty:snowblossom_grove"
       }
     ]
   ]

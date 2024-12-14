@@ -1,1 +1,0 @@
-{"name":"minecraft:pirate_dungeon","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"shrines:pirate_dungeon","processors":"shrines:default_processors","projection":"rigid","element_type":"minecraft:single_pool_element"}}]}
