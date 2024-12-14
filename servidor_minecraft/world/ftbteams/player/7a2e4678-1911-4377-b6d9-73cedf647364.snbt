@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "Myth_Pool"
 		"ftbteams:description": ""
-		"ftbteams:color": "#FF595F"
+		"ftbteams:color": "#59FF90"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}
