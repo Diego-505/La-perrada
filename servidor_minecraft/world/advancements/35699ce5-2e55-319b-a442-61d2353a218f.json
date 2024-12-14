@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "mutantbeasts:root": {
+    "criteria": {
+      "killed_by_something": "2024-12-13 06:19:12 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/missing_tile": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:34 +0000"
@@ -518,6 +524,12 @@
   "biomesoplenty:recipes/misc/mud_brick_from_smelting": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 07:32:19 +0000"
     },
     "done": true
   },
@@ -905,6 +917,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pulley_block": {
+    "criteria": {
+      "has_plank": "2024-12-13 07:31:00 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/umbralith_slab_from_umbralith_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:34 +0000"
@@ -1214,6 +1232,12 @@
   "cavesandcliffs:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 07:32:19 +0000"
     },
     "done": true
   },
@@ -1829,6 +1853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 07:32:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:34 +0000"
@@ -1838,6 +1868,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/halberd_copper": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 07:32:19 +0000"
     },
     "done": true
   },
@@ -3575,6 +3611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 07:32:19 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/sulphuric_rock_polished": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:33 +0000"
@@ -3659,6 +3701,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/hammer_iron": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 07:31:00 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/pythadendron_composter": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:34 +0000"
@@ -3710,6 +3758,12 @@
   "biomesoplenty:recipes/redstone/fir_fence_gate": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-13 07:31:00 +0000"
     },
     "done": true
   },
@@ -4052,6 +4106,12 @@
   "cavesandcliffs:recipes/building_blocks/waxed_weathered_copper_from_honeycomb": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_iron": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 07:31:00 +0000"
     },
     "done": true
   },
@@ -4534,6 +4594,12 @@
       "has_the_recipe": "2024-12-12 08:19:32 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "savageandravage:creepie": "2024-12-13 07:44:56 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/decorations/black_sandstone_wall_from_black_sandstone_stonecutting": {
     "criteria": {
@@ -5192,6 +5258,12 @@
   "cavesandcliffs:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 07:32:19 +0000"
     },
     "done": true
   },
@@ -5885,6 +5957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 07:32:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:34 +0000"
@@ -6008,6 +6086,12 @@
   "decorative_blocks:recipes/decorations/umbran_palisade": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_iron": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 07:31:00 +0000"
     },
     "done": true
   },
@@ -6611,6 +6695,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2024-12-13 06:17:30 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/building_blocks/cut_black_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:33 +0000"
@@ -6668,6 +6758,12 @@
   "farmersdelight:recipes/farmersdelight/lime_canvas_sign": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 07:32:19 +0000"
     },
     "done": true
   },
@@ -7682,6 +7778,12 @@
   "betterendforge:recipes/betterendforge/pythadendron_button": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 07:32:19 +0000"
     },
     "done": true
   },
@@ -9209,6 +9311,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/longsword_iron": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 07:31:00 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/stripped_umbran_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:33 +0000"
@@ -9224,6 +9332,12 @@
   "decorative_blocks:recipes/decorations/rocky_dirt": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 07:32:19 +0000"
     },
     "done": true
   },
@@ -9461,6 +9575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 07:32:19 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/red_glazed_jar": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:33 +0000"
@@ -9548,6 +9668,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/cestus": {
+    "criteria": {
+      "has_wool": "2024-12-13 07:32:19 +0000"
     },
     "done": true
   },
@@ -9821,6 +9947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 07:32:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:32 +0000"
@@ -9890,6 +10022,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/dagger_iron": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 07:31:00 +0000"
     },
     "done": true
   },
@@ -9986,6 +10124,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_iron": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 07:31:00 +0000"
     },
     "done": true
   },
@@ -10574,6 +10718,12 @@
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_iron": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 07:31:00 +0000"
     },
     "done": true
   },
@@ -11675,6 +11825,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-13 06:19:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:34 +0000"
@@ -12041,6 +12197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 07:32:19 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/white_sandstone": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:32 +0000"
@@ -12104,6 +12266,12 @@
   "farmersdelight:recipes/farmersdelight/light_gray_canvas_sign": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/glaive_iron": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 07:31:00 +0000"
     },
     "done": true
   },
@@ -12272,6 +12440,12 @@
   "minecraft:recipes/decorations/light_blue_carpet": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_iron": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 07:31:00 +0000"
     },
     "done": true
   },
@@ -12581,6 +12755,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "savageandravage:creepie": "2024-12-13 07:44:56 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/building_blocks/glass": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:34 +0000"
@@ -12752,6 +12932,12 @@
   "minecraft:recipes/redstone/redstone_from_smelting": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-13 06:17:30 +0000"
     },
     "done": true
   },
@@ -13321,7 +13507,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "sweet_berries": "2024-12-13 06:05:13 +0000"
+      "cooked_mutton": "2024-12-13 07:47:18 +0000",
+      "sweet_berries": "2024-12-13 06:05:13 +0000",
+      "bread": "2024-12-13 07:34:35 +0000",
+      "carrot": "2024-12-13 06:22:04 +0000"
     },
     "done": false
   },
@@ -13685,6 +13874,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/spear_iron": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 07:31:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooked_salmon_slice": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:33 +0000"
@@ -13925,6 +14120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 07:32:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:34 +0000"
@@ -14000,6 +14201,12 @@
   "farmersdelight:recipes/food/cake_from_milk_bottle": {
     "criteria": {
       "has_the_recipe": "2024-12-12 08:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 07:32:19 +0000"
     },
     "done": true
   },

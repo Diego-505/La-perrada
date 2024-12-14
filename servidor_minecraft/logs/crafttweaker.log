@@ -1,43 +1,43 @@
-[06:00:56.216][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
-[06:00:58.703][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+[07:09:49.345][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[07:09:50.811][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
 'crafttweaker' at version '7.1.2.527'
 'farmersdelight' at version '1.16.5-0.6.0'
 'jeitweaker' at version '1.1.0.49'
-[06:00:59.937][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
-[06:01:26.750][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
-[06:01:28.794][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
-[06:01:55.567][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
-[06:01:55.697][DONE][CLIENT][INFO] Loading file: 'recipes.zs' with priority: 10
-[06:01:55.735][DONE][CLIENT][INFO] Script starting!
-[06:01:55.748][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_basic_tin>"
-[06:01:55.755][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_basic_bronze>"
-[06:01:55.759][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_basic_lead>"
-[06:01:55.763][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_basic_steel>"
-[06:01:55.766][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_basic_nickel>"
-[06:01:55.769][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_basic_invar>"
-[06:01:55.771][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_basic_constantan>"
-[06:01:55.773][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_basic_platinum>"
-[06:01:55.775][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_basic_electrum>"
-[06:01:55.777][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_tower_tin>"
-[06:01:55.779][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_basic_bronze>"
-[06:01:55.781][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_tower_lead>"
-[06:01:55.783][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_tower_steel>"
-[06:01:55.784][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_tower_nickel>"
-[06:01:55.786][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_tower_invar>"
-[06:01:55.787][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_tower_constantan>"
-[06:01:55.788][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_tower_platinum>"
-[06:01:55.789][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_tower_electrum>"
-[06:01:55.791][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_botania_manasteel>"
-[06:01:55.792][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_botania_terrasteel>"
-[06:01:55.793][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_botania_elementium>"
-[06:01:55.795][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_mekanism_osmium>"
-[06:01:55.796][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_mekanism_lapis_lazuli>"
-[06:01:55.798][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_mekanism_refined_glowstone>"
-[06:01:55.799][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_mekanism_refined_obsidian>"
-[06:01:55.801][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_mekanism_powered_basic>"
-[06:01:55.802][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_mekanism_powered_advanced>"
-[06:01:55.803][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_mekanism_powered_elite>"
-[06:01:55.804][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_mekanism_powered_ultimate>"
-[06:01:55.804][DONE][CLIENT][INFO] Script ending!
-[06:01:55.805][DONE][CLIENT][INFO] Finished loading Scripts!
-[06:01:55.806][DONE][CLIENT][INFO] This reload was made possible by DreamThorn and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[07:09:52.231][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
+[07:10:14.374][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
+[07:10:16.124][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
+[07:10:37.459][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[07:10:37.558][DONE][CLIENT][INFO] Loading file: 'recipes.zs' with priority: 10
+[07:10:37.586][DONE][CLIENT][INFO] Script starting!
+[07:10:37.597][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_basic_tin>"
+[07:10:37.604][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_basic_bronze>"
+[07:10:37.608][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_basic_lead>"
+[07:10:37.613][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_basic_steel>"
+[07:10:37.618][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_basic_nickel>"
+[07:10:37.622][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_basic_invar>"
+[07:10:37.626][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_basic_constantan>"
+[07:10:37.629][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_basic_platinum>"
+[07:10:37.633][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_basic_electrum>"
+[07:10:37.637][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_tower_tin>"
+[07:10:37.640][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_basic_bronze>"
+[07:10:37.643][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_tower_lead>"
+[07:10:37.646][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_tower_steel>"
+[07:10:37.649][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_tower_nickel>"
+[07:10:37.652][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_tower_invar>"
+[07:10:37.654][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_tower_constantan>"
+[07:10:37.657][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_tower_platinum>"
+[07:10:37.660][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_tower_electrum>"
+[07:10:37.662][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_botania_manasteel>"
+[07:10:37.665][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_botania_terrasteel>"
+[07:10:37.667][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_botania_elementium>"
+[07:10:37.670][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_mekanism_osmium>"
+[07:10:37.673][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_mekanism_lapis_lazuli>"
+[07:10:37.676][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_mekanism_refined_glowstone>"
+[07:10:37.679][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_mekanism_refined_obsidian>"
+[07:10:37.681][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_mekanism_powered_basic>"
+[07:10:37.684][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_mekanism_powered_advanced>"
+[07:10:37.686][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_mekanism_powered_elite>"
+[07:10:37.689][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:spartanshields:shield_mekanism_powered_ultimate>"
+[07:10:37.691][DONE][CLIENT][INFO] Script ending!
+[07:10:37.691][DONE][CLIENT][INFO] Finished loading Scripts!
+[07:10:37.694][DONE][CLIENT][INFO] This reload was made possible by Belathus and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
