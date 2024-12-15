@@ -15067,3 +15067,7 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [15Dec2024 23:13:59.160] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7a2e4678-1911-4377-b6d9-73cedf647364
 [15Dec2024 23:13:59.163] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Myth_Pool (7a2e4678-1911-4377-b6d9-73cedf647364) successfully connected to voice chat
 [15Dec2024 23:14:04.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3119ms or 62 ticks behind
+[15Dec2024 23:22:56.278] [Server thread/INFO] [FrozenLib/]: Loading config ItemConfig from wilderwild
+[15Dec2024 23:22:56.284] [Server thread/INFO] [FrozenLib/]: Saving config ItemConfig from wilderwild
+[15Dec2024 23:30:00.496] [Worker-Main-3/INFO] [TerraBlenderFix/]: Optimizing surface rules
+[15Dec2024 23:30:00.498] [Worker-Main-3/INFO] [Wilder Wild/]: Wilder Wild's Overworld Surface Rules have been added!
