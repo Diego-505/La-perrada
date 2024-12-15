@@ -1,0 +1,17 @@
+{
+	id: "a619f863-40aa-494d-91c5-679bb05d5372"
+	type: "player"
+	player_name: "Diego505_"
+	ranks: {
+		a619f863-40aa-494d-91c5-679bb05d5372: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Diego505_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5985FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

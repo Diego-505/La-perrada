@@ -1,0 +1,17 @@
+{
+	id: "4297f3bf-d4f4-4d9a-b74e-585d1bca8192"
+	type: "player"
+	player_name: "Snips_bv"
+	ranks: {
+		4297f3bf-d4f4-4d9a-b74e-585d1bca8192: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Snips_bv"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E6FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
