@@ -84,7 +84,8 @@
       "deciduous_forest": "2024-12-15 10:57:42 +0000",
       "temperate_grove": "2024-12-15 23:52:33 +0000",
       "grassland": "2024-12-15 10:56:30 +0000",
-      "prairie": "2024-12-15 08:54:56 +0000"
+      "prairie": "2024-12-15 08:54:56 +0000",
+      "redwoods": "2024-12-16 19:58:08 +0000"
     },
     "done": false
   },
@@ -94,7 +95,8 @@
       "deciduous_forest": "2024-12-15 10:57:42 +0000",
       "temperate_grove": "2024-12-15 23:52:33 +0000",
       "grassland": "2024-12-15 10:56:30 +0000",
-      "prairie": "2024-12-15 08:54:56 +0000"
+      "prairie": "2024-12-15 08:54:56 +0000",
+      "redwoods": "2024-12-16 19:58:08 +0000"
     },
     "done": false
   },
@@ -742,9 +744,21 @@
     },
     "done": true
   },
+  "spelunkery:recipes/charcoal": {
+    "criteria": {
+      "has_item": "2024-12-16 20:00:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_log_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-16 19:49:02 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2024-12-16 19:57:20 +0000"
     },
     "done": true
   },

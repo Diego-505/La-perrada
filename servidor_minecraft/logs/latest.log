@@ -15074,3 +15074,5 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [16Dec2024 19:49:56.565] [Worker-Main-2/INFO] [TerraBlenderFix/]: Optimizing surface rules
 [16Dec2024 19:49:56.566] [Worker-Main-2/INFO] [Wilder Wild/]: Wilder Wild's Overworld Surface Rules have been added!
 [16Dec2024 19:57:20.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Junior Summoner]
+[16Dec2024 20:05:39.459] [Worker-Main-3/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: idas:ancient_mines/ancient_mines_entrance2 which is being called from not a SinglePoolElement class
+[16Dec2024 20:08:24.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has reached the goal [Fighting Nightmares]
