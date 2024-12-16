@@ -15070,3 +15070,7 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [16Dec2024 19:41:58.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15518ms or 310 ticks behind
 [16Dec2024 19:41:59.303] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7a2e4678-1911-4377-b6d9-73cedf647364
 [16Dec2024 19:41:59.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Myth_Pool (7a2e4678-1911-4377-b6d9-73cedf647364) successfully connected to voice chat
+[16Dec2024 19:48:46.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has reached the goal [Horror Under the Mantle]
+[16Dec2024 19:49:56.565] [Worker-Main-2/INFO] [TerraBlenderFix/]: Optimizing surface rules
+[16Dec2024 19:49:56.566] [Worker-Main-2/INFO] [Wilder Wild/]: Wilder Wild's Overworld Surface Rules have been added!
+[16Dec2024 19:57:20.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Junior Summoner]

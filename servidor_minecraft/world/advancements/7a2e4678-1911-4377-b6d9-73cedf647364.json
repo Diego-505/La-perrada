@@ -730,5 +730,23 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2024-12-16 19:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/stripped_acacia_log_from_acacia_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-16 19:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-16 19:49:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
