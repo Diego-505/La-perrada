@@ -15076,3 +15076,22 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [16Dec2024 19:57:20.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Junior Summoner]
 [16Dec2024 20:05:39.459] [Worker-Main-3/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: idas:ancient_mines/ancient_mines_entrance2 which is being called from not a SinglePoolElement class
 [16Dec2024 20:08:24.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has reached the goal [Fighting Nightmares]
+[16Dec2024 20:09:44.347] [Server thread/INFO] [FrozenLib/]: Loading config ItemConfig from wilderwild
+[16Dec2024 20:09:44.353] [Server thread/INFO] [FrozenLib/]: Saving config ItemConfig from wilderwild
+[16Dec2024 20:10:57.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Double Trouble]
+[16Dec2024 20:17:36.549] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Myth_Pool lost connection: Disconnected
+[16Dec2024 20:17:36.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool left the game
+[16Dec2024 20:17:36.553] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Myth_Pool
+[16Dec2024 20:17:58.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Dec2024 20:17:58.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Dec2024 20:17:58.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Dec2024 20:17:58.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Dec2024 20:17:58.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Dec2024 20:17:59.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Dec2024 20:17:59.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Dec2024 20:17:59.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Dec2024 20:17:59.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Dec2024 20:17:59.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Dec2024 20:17:59.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Dec2024 20:17:59.244] [Server thread/INFO] [Framework/]: Unloading server configs...
+[16Dec2024 20:17:59.244] [Server thread/INFO] [Framework/]: Finished unloading server configs

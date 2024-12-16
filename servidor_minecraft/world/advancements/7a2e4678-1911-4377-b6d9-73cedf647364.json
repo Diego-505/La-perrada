@@ -744,9 +744,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-16 20:08:24 +0000"
+    },
+    "done": true
+  },
   "spelunkery:recipes/charcoal": {
     "criteria": {
       "has_item": "2024-12-16 20:00:33 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2024-12-16 20:10:57 +0000"
     },
     "done": true
   },
