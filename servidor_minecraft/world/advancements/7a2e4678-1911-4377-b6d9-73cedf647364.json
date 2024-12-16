@@ -669,6 +669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-16 00:00:29 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:potion_jar": {
     "criteria": {
       "has_potion_jar": "2024-12-15 23:54:11 +0000"
@@ -681,6 +687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/stripped_jungle_log_from_jungle_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-16 00:00:29 +0000"
+    },
+    "done": true
+  },
   "spelunkery:recipes/rough_diamond": {
     "criteria": {
       "has_item": "2024-12-15 23:42:23 +0000"
@@ -690,6 +702,12 @@
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2024-12-15 23:49:07 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2024-12-15 23:58:54 +0000"
     },
     "done": true
   },

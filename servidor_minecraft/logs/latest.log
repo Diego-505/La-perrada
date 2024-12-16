@@ -2,3 +2,4 @@
 [16Dec2024 00:00:00.989] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/33954, l='ServerLevel[world]', x=-920.16, y=64.00, z=-527.55, removed=DISCARDED]
 [16Dec2024 00:00:03.733] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/33954, l='ServerLevel[world]', x=-920.16, y=64.00, z=-527.55, removed=DISCARDED]
 [16Dec2024 00:00:03.733] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/33944, l='ServerLevel[world]', x=-920.77, y=64.00, z=-528.55, removed=DISCARDED]
+[16Dec2024 00:09:10.428] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/33051, l='ServerLevel[world]', x=-870.55, y=65.00, z=-553.60] died, message: 'Cleric withered away'
