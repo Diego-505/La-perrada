@@ -3,3 +3,19 @@
 [16Dec2024 00:00:03.733] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/33954, l='ServerLevel[world]', x=-920.16, y=64.00, z=-527.55, removed=DISCARDED]
 [16Dec2024 00:00:03.733] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/33944, l='ServerLevel[world]', x=-920.77, y=64.00, z=-528.55, removed=DISCARDED]
 [16Dec2024 00:09:10.428] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/33051, l='ServerLevel[world]', x=-870.55, y=65.00, z=-553.60] died, message: 'Cleric withered away'
+[16Dec2024 00:34:31.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Myth_Pool lost connection: Disconnected
+[16Dec2024 00:34:31.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool left the game
+[16Dec2024 00:34:31.337] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Myth_Pool
+[16Dec2024 00:34:39.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Dec2024 00:34:39.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Dec2024 00:34:39.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Dec2024 00:34:39.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Dec2024 00:34:39.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Dec2024 00:34:39.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Dec2024 00:34:39.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Dec2024 00:34:40.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Dec2024 00:34:40.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Dec2024 00:34:40.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Dec2024 00:34:40.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Dec2024 00:34:40.039] [Server thread/INFO] [Framework/]: Unloading server configs...
+[16Dec2024 00:34:40.039] [Server thread/INFO] [Framework/]: Finished unloading server configs
