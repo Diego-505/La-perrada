@@ -652,45 +652,15 @@
     },
     "done": true
   },
-  "ars_nouveau:imbuement_chamber": {
+  "spelunkery:recipes/rough_diamond_shard": {
     "criteria": {
-      "has_imbuement_chamber": "2024-12-15 23:53:23 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/emu": {
-    "criteria": {
-      "killed_by": "2024-12-15 23:49:48 +0000"
-    },
-    "done": true
-  },
-  "idas:enchantingtower": {
-    "criteria": {
-      "in_enchantingtower": "2024-12-15 23:52:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2024-12-16 00:00:29 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:potion_jar": {
-    "criteria": {
-      "has_potion_jar": "2024-12-15 23:54:11 +0000"
+      "has_item": "2024-12-15 23:42:20 +0000"
     },
     "done": true
   },
   "spelunkery:spelunkery/rough_diamond": {
     "criteria": {
       "item": "2024-12-15 23:42:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/jungle/stripped_jungle_log_from_jungle_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2024-12-16 00:00:29 +0000"
     },
     "done": true
   },
@@ -706,9 +676,15 @@
     },
     "done": true
   },
-  "netherexp:nether/overkill": {
+  "alexsmobs:alexsmobs/emu": {
     "criteria": {
-      "overkill": "2024-12-15 23:58:54 +0000"
+      "killed_by": "2024-12-15 23:49:48 +0000"
+    },
+    "done": true
+  },
+  "idas:enchantingtower": {
+    "criteria": {
+      "in_enchantingtower": "2024-12-15 23:52:51 +0000"
     },
     "done": true
   },
@@ -718,15 +694,39 @@
     },
     "done": true
   },
-  "spelunkery:recipes/rough_diamond_shard": {
+  "ars_nouveau:imbuement_chamber": {
     "criteria": {
-      "has_item": "2024-12-15 23:42:20 +0000"
+      "has_imbuement_chamber": "2024-12-15 23:53:23 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:potion_jar": {
+    "criteria": {
+      "has_potion_jar": "2024-12-15 23:54:11 +0000"
     },
     "done": true
   },
   "ars_nouveau:novice_spell_book": {
     "criteria": {
       "has_novice_spell_book": "2024-12-15 23:54:30 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2024-12-15 23:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-16 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/stripped_jungle_log_from_jungle_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-16 00:00:29 +0000"
     },
     "done": true
   },
