@@ -82,6 +82,7 @@
     "criteria": {
       "rocky_meadow": "2024-12-14 23:45:29 +0000",
       "deciduous_forest": "2024-12-15 10:57:42 +0000",
+      "temperate_grove": "2024-12-15 23:52:33 +0000",
       "grassland": "2024-12-15 10:56:30 +0000",
       "prairie": "2024-12-15 08:54:56 +0000"
     },
@@ -91,6 +92,7 @@
     "criteria": {
       "rocky_meadow": "2024-12-14 23:45:29 +0000",
       "deciduous_forest": "2024-12-15 10:57:42 +0000",
+      "temperate_grove": "2024-12-15 23:52:33 +0000",
       "grassland": "2024-12-15 10:56:30 +0000",
       "prairie": "2024-12-15 08:54:56 +0000"
     },
@@ -646,6 +648,66 @@
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2024-12-15 11:10:07 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2024-12-15 23:53:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2024-12-15 23:49:48 +0000"
+    },
+    "done": true
+  },
+  "idas:enchantingtower": {
+    "criteria": {
+      "in_enchantingtower": "2024-12-15 23:52:51 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:potion_jar": {
+    "criteria": {
+      "has_potion_jar": "2024-12-15 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/rough_diamond": {
+    "criteria": {
+      "item": "2024-12-15 23:42:23 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_diamond": {
+    "criteria": {
+      "has_item": "2024-12-15 23:42:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-15 23:49:07 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2024-12-15 23:53:22 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_diamond_shard": {
+    "criteria": {
+      "has_item": "2024-12-15 23:42:20 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2024-12-15 23:54:30 +0000"
     },
     "done": true
   },
