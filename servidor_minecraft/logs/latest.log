@@ -15238,3 +15238,6 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [18Dec2024 20:16:46.483] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a619f863-40aa-494d-91c5-679bb05d5372
 [18Dec2024 20:16:46.484] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Diego505_ (a619f863-40aa-494d-91c5-679bb05d5372) successfully connected to voice chat
 [18Dec2024 20:16:55.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Gone Bananas!]
+[18Dec2024 20:25:08.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [Stone Age]
+[18Dec2024 20:28:58.239] [Server thread/INFO] [FrozenLib/]: Loading config ItemConfig from wilderwild
+[18Dec2024 20:28:58.246] [Server thread/INFO] [FrozenLib/]: Saving config ItemConfig from wilderwild
