@@ -15353,3 +15353,36 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [18Dec2024 22:55:07.281] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego505_ lost connection: Disconnected
 [18Dec2024 22:55:07.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ left the game
 [18Dec2024 22:55:07.283] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Diego505_
+[18Dec2024 23:27:03.792] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/64876, l='ServerLevel[world]', x=-550.15, y=103.00, z=1163.32] died, message: 'Unemployed was slain by Zombie'
+[18Dec2024 23:28:38.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has made the advancement [Getting an Upgrade]
+[18Dec2024 23:29:10.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sheylike lost connection: Disconnected
+[18Dec2024 23:29:10.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike left the game
+[18Dec2024 23:29:10.051] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sheylike
+[18Dec2024 23:29:19.738] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sheylike is d382ed98-6efc-49aa-8f71-3d38ceaa4b33
+[18Dec2024 23:29:29.221] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sheylike[/10.241.179.8:55029] logged in with entity id 65745 at (-540.4195307363835, 78.0, 1077.300000011921)
+[18Dec2024 23:29:29.317] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Dec2024 23:29:29.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike joined the game
+[18Dec2024 23:29:29.528] [Server thread/INFO] [Jade/]: Syncing config to Sheylike (d382ed98-6efc-49aa-8f71-3d38ceaa4b33)
+[18Dec2024 23:29:31.316] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sheylike (18)
+[18Dec2024 23:29:31.316] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sheylike
+[18Dec2024 23:29:31.317] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Dec2024 23:29:31.317] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Dec2024 23:29:31.318] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Dec2024 23:29:31.318] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Dec2024 23:29:31.318] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Dec2024 23:29:31.318] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Dec2024 23:29:31.319] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Dec2024 23:29:31.319] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Dec2024 23:29:31.319] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Dec2024 23:29:31.319] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Dec2024 23:29:31.319] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Dec2024 23:29:31.319] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Dec2024 23:29:31.320] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Dec2024 23:29:31.320] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Dec2024 23:29:31.320] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Dec2024 23:29:31.320] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Dec2024 23:29:31.320] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Dec2024 23:29:31.320] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/fluffy-pancake/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Dec2024 23:29:39.824] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d382ed98-6efc-49aa-8f71-3d38ceaa4b33
+[18Dec2024 23:29:40.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d382ed98-6efc-49aa-8f71-3d38ceaa4b33
+[18Dec2024 23:29:40.826] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sheylike (d382ed98-6efc-49aa-8f71-3d38ceaa4b33) successfully connected to voice chat
