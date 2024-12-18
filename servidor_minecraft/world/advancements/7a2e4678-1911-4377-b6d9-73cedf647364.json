@@ -1132,6 +1132,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/stripped_dark_oak_log_from_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 21:39:21 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/crude_cladding": {
+    "criteria": {
+      "get_disc": "2024-12-18 21:40:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2024-12-18 20:39:00 +0000"
@@ -1141,6 +1153,12 @@
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
       "banana": "2024-12-18 20:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 21:39:21 +0000"
     },
     "done": true
   },
