@@ -554,6 +554,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 21:44:18 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_gold_nugget": {
+    "criteria": {
+      "has_item": "2024-12-18 21:54:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "bioshroom_caves": "2024-12-18 22:09:37 +0000",
+      "ancient_delta": "2024-12-18 22:09:35 +0000"
+    },
+    "done": false
+  },
   "spelunkery:spelunkery/rough_diamond": {
     "criteria": {
       "item": "2024-12-18 22:09:49 +0000"
@@ -569,25 +588,6 @@
   "spelunkery:spelunkery/rough_gem": {
     "criteria": {
       "item": "2024-12-18 22:09:49 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:spelunker": {
-    "criteria": {
-      "bioshroom_caves": "2024-12-18 22:09:37 +0000",
-      "ancient_delta": "2024-12-18 22:09:35 +0000"
-    },
-    "done": false
-  },
-  "spelunkery:recipes/raw_gold_nugget": {
-    "criteria": {
-      "has_item": "2024-12-18 21:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2024-12-18 21:44:18 +0000"
     },
     "done": true
   },

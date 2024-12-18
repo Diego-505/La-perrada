@@ -197,7 +197,8 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
-      "mauve_log": "2024-12-18 05:27:23 +0000"
+      "mauve_log": "2024-12-18 05:27:23 +0000",
+      "redwood_log": "2024-12-18 23:37:14 +0000"
     },
     "done": false
   },
