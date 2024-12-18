@@ -15347,3 +15347,6 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [18Dec2024 22:10:07.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [The Cutest Predator]
 [18Dec2024 22:11:15.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [The Cutest Predator]
 [18Dec2024 22:21:56.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [Junior Summoner]
+[18Dec2024 22:38:41.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [The Parrots and the Bats]
+[18Dec2024 22:39:20.887] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/20417, l='ServerLevel[world]', x=-585.18, y=78.00, z=921.63] died, message: 'Unemployed was slain by Decaying Zombie'
+[18Dec2024 22:42:36.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-604, y=84, z=884} BlockPos{x=-604, y=82, z=882}

@@ -1165,6 +1165,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-18 22:38:41 +0000"
+    },
+    "done": true
+  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2024-12-18 20:39:00 +0000"
@@ -1181,6 +1187,12 @@
     "criteria": {
       "bioshroom_caves": "2024-12-18 22:10:08 +0000",
       "ancient_delta": "2024-12-18 22:10:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-12-18 22:38:41 +0000"
     },
     "done": false
   },

@@ -571,11 +571,95 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/chest_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 22:37:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "minecraft:ragdoll": "2024-12-18 22:35:43 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 22:37:32 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
