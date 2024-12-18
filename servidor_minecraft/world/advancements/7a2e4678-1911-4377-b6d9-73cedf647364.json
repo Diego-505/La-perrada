@@ -80,6 +80,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "grassy_beach": "2024-12-18 07:01:03 +0000",
       "rocky_meadow": "2024-12-14 23:45:29 +0000",
       "deciduous_forest": "2024-12-15 10:57:42 +0000",
       "temperate_grove": "2024-12-15 23:52:33 +0000",
@@ -91,6 +92,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "grassy_beach": "2024-12-18 07:01:03 +0000",
       "rocky_meadow": "2024-12-14 23:45:29 +0000",
       "deciduous_forest": "2024-12-15 10:57:42 +0000",
       "temperate_grove": "2024-12-15 23:52:33 +0000",
@@ -802,9 +804,21 @@
     },
     "done": true
   },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2024-12-18 07:03:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/jungle/barrel_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 05:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-18 06:56:34 +0000"
     },
     "done": true
   },
@@ -885,6 +899,12 @@
       "the_wind_darkening_0": "2024-12-18 06:05:23 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "mauve_log": "2024-12-18 06:57:09 +0000"
+    },
+    "done": false
   },
   "biomemakeover:biomemakeover/create_peat_farmland": {
     "criteria": {

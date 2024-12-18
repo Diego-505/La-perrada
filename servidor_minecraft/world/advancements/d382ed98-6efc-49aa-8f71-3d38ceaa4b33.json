@@ -1,4 +1,10 @@
 {
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-18 07:03:01 +0000"
+    },
+    "done": true
+  },
   "idas:idas_root": {
     "criteria": {
       "always": "2024-12-18 05:10:46 +0000"
@@ -59,6 +65,18 @@
     },
     "done": true
   },
+  "idas:enchantingtower": {
+    "criteria": {
+      "in_enchantingtower": "2024-12-18 06:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 06:54:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-18 06:10:03 +0000"
@@ -68,6 +86,12 @@
   "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 05:41:30 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2024-12-18 07:03:35 +0000"
     },
     "done": true
   },
@@ -114,6 +138,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/stripped_jungle_log_from_jungle_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 06:54:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-18 05:22:24 +0000"
@@ -138,6 +168,12 @@
       "give_recipe": "2024-12-18 05:15:40 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2024-12-18 07:03:01 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/woodcutting/oak/oak_door_from_oak_planks_woodcutting": {
     "criteria": {
@@ -175,6 +211,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2024-12-18 06:56:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_stairs_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 05:41:30 +0000"
@@ -195,8 +237,10 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "grassy_beach": "2024-12-18 07:00:02 +0000",
       "rocky_meadow": "2024-12-18 05:16:32 +0000",
       "deciduous_forest": "2024-12-18 05:22:17 +0000",
+      "grassland": "2024-12-18 06:57:05 +0000",
       "prairie": "2024-12-18 05:21:14 +0000",
       "redwoods": "2024-12-18 06:43:41 +0000"
     },
@@ -234,8 +278,10 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "grassy_beach": "2024-12-18 07:00:02 +0000",
       "rocky_meadow": "2024-12-18 05:16:32 +0000",
       "deciduous_forest": "2024-12-18 05:22:17 +0000",
+      "grassland": "2024-12-18 06:57:05 +0000",
       "prairie": "2024-12-18 05:21:14 +0000",
       "redwoods": "2024-12-18 06:43:41 +0000"
     },
