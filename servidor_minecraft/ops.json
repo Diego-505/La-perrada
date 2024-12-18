@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "7a2e4678-1911-4377-b6d9-73cedf647364",
+    "name": "Myth_Pool",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

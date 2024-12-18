@@ -123,7 +123,9 @@
     "criteria": {
       "grassy_beach": "2024-12-18 07:00:02 +0000",
       "rocky_meadow": "2024-12-18 05:16:32 +0000",
+      "outback": "2024-12-18 08:59:53 +0000",
       "deciduous_forest": "2024-12-18 05:22:17 +0000",
+      "saguaro_desert": "2024-12-18 08:59:51 +0000",
       "grassland": "2024-12-18 06:57:05 +0000",
       "prairie": "2024-12-18 05:21:14 +0000",
       "redwoods": "2024-12-18 06:43:41 +0000"
@@ -134,7 +136,9 @@
     "criteria": {
       "grassy_beach": "2024-12-18 07:00:02 +0000",
       "rocky_meadow": "2024-12-18 05:16:32 +0000",
+      "outback": "2024-12-18 08:59:53 +0000",
       "deciduous_forest": "2024-12-18 05:22:17 +0000",
+      "saguaro_desert": "2024-12-18 08:59:51 +0000",
       "grassland": "2024-12-18 06:57:05 +0000",
       "prairie": "2024-12-18 05:21:14 +0000",
       "redwoods": "2024-12-18 06:43:41 +0000"
@@ -465,9 +469,93 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_boat_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_sign_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/chest_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_slab_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:59:23 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:experienced_engineer": {
     "criteria": {
       "have_experience_nugget": "2024-12-18 08:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:59:23 +0000"
     },
     "done": true
   },
