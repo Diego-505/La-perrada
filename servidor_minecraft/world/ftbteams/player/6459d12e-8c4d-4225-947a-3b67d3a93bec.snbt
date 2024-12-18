@@ -1,0 +1,17 @@
+{
+	id: "6459d12e-8c4d-4225-947a-3b67d3a93bec"
+	type: "player"
+	player_name: "Lech3Materna"
+	ranks: {
+		6459d12e-8c4d-4225-947a-3b67d3a93bec: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Lech3Materna"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5B59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

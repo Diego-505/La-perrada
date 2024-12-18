@@ -23,6 +23,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-18 05:30:06 +0000",
+      "minecraft:zombie": "2024-12-18 05:23:47 +0000"
+    },
+    "done": false
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-18 05:10:46 +0000"
@@ -35,9 +42,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-18 05:22:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-18 05:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 05:15:40 +0000"
     },
     "done": true
   },
@@ -59,6 +78,14 @@
     },
     "done": true
   },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "rocky_meadow": "2024-12-18 05:16:32 +0000",
+      "deciduous_forest": "2024-12-18 05:22:17 +0000",
+      "prairie": "2024-12-18 05:21:14 +0000"
+    },
+    "done": false
+  },
   "friendsandfoes:misc/yellow_dye_from_buttercup": {
     "criteria": {
       "has_the_recipe": "2024-12-18 05:10:46 +0000"
@@ -71,9 +98,43 @@
     },
     "done": true
   },
+  "spelunkery:recipes/stick": {
+    "criteria": {
+      "has_item": "2024-12-18 05:26:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "rocky_meadow": "2024-12-18 05:16:32 +0000",
+      "deciduous_forest": "2024-12-18 05:22:17 +0000",
+      "prairie": "2024-12-18 05:21:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-18 05:23:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/stripped_oak_log_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 05:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-18 05:23:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:savanna": "2024-12-18 05:10:47 +0000"
+      "minecraft:river": "2024-12-18 05:22:10 +0000",
+      "minecraft:savanna": "2024-12-18 05:10:47 +0000",
+      "minecraft:plains": "2024-12-18 05:25:25 +0000"
     },
     "done": false
   },
@@ -83,9 +144,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-18 05:22:24 +0000"
+    },
+    "done": false
+  },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
       "bornin_chaos_0": "2024-12-18 05:10:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "mauve_log": "2024-12-18 05:27:23 +0000"
+    },
+    "done": false
+  },
+  "spelunkery:recipes/emerald": {
+    "criteria": {
+      "has_item": "2024-12-18 05:26:17 +0000"
     },
     "done": true
   },

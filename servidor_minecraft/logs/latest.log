@@ -15232,3 +15232,40 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [18Dec2024 05:11:08.897] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sheylike (d382ed98-6efc-49aa-8f71-3d38ceaa4b33) successfully connected to voice chat
 [18Dec2024 05:11:43.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sheylike> a
 [18Dec2024 05:13:14.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has reached the goal [True North? Due North]
+[18Dec2024 05:17:33.005] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lech3Materna is 6459d12e-8c4d-4225-947a-3b67d3a93bec
+[18Dec2024 05:17:42.367] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lech3Materna[/10.241.193.197:63218] logged in with entity id 8748 at (-70.5, 84.0, 166.5)
+[18Dec2024 05:17:42.392] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Dec2024 05:17:42.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lech3Materna joined the game
+[18Dec2024 05:17:42.552] [Server thread/INFO] [Jade/]: Syncing config to Lech3Materna (6459d12e-8c4d-4225-947a-3b67d3a93bec)
+[18Dec2024 05:17:42.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lech3Materna has made the advancement [Ice and Fire]
+[18Dec2024 05:17:42.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lech3Materna has made the advancement [Integrated Dungeons and Structures]
+[18Dec2024 05:17:44.852] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lech3Materna (18)
+[18Dec2024 05:17:44.853] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lech3Materna
+[18Dec2024 05:17:44.853] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Dec2024 05:17:44.853] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Dec2024 05:17:44.854] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Dec2024 05:17:44.855] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Dec2024 05:17:44.855] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Dec2024 05:17:44.855] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Dec2024 05:17:44.855] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Dec2024 05:17:44.855] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Dec2024 05:17:44.856] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Dec2024 05:17:44.856] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Dec2024 05:17:44.856] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Dec2024 05:17:44.856] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Dec2024 05:17:44.856] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Dec2024 05:17:44.856] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Dec2024 05:17:44.856] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Dec2024 05:17:44.857] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Dec2024 05:17:44.857] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Dec2024 05:17:44.857] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/fluffy-pancake/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Dec2024 05:17:59.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6459d12e-8c4d-4225-947a-3b67d3a93bec
+[18Dec2024 05:18:00.264] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6459d12e-8c4d-4225-947a-3b67d3a93bec
+[18Dec2024 05:18:00.265] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lech3Materna (6459d12e-8c4d-4225-947a-3b67d3a93bec) successfully connected to voice chat
+[18Dec2024 05:18:26.217] [Worker-Main-18/INFO] [TerraBlenderFix/]: Optimizing surface rules
+[18Dec2024 05:18:26.218] [Worker-Main-18/INFO] [Wilder Wild/]: Wilder Wild's Overworld Surface Rules have been added!
+[18Dec2024 05:20:34.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=112, z=273} BlockPos{x=-186, y=110, z=274}
+[18Dec2024 05:20:41.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-217, y=108, z=273} BlockPos{x=-215, y=108, z=273}
+[18Dec2024 05:20:41.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lech3Materna has made the advancement [Hunt and Gather]
+[18Dec2024 05:22:32.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lech3Materna has made the advancement [Monster Hunter]
+[18Dec2024 05:23:47.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has made the advancement [Monster Hunter]
