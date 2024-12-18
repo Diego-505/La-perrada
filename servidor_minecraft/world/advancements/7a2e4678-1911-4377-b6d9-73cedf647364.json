@@ -829,6 +829,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2024-12-18 06:04:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/jungle/crafting_table_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 05:56:16 +0000"
@@ -850,6 +856,12 @@
   "minecraft:recipes/woodcutting/jungle/jungle_sign_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 05:56:16 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-12-18 06:05:23 +0000"
     },
     "done": true
   },

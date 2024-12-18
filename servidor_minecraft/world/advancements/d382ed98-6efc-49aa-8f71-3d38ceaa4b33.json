@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-18 06:10:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 05:41:30 +0000"
@@ -255,7 +261,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2024-12-18 05:22:24 +0000"
+      "bread": "2024-12-18 05:22:24 +0000",
+      "melon_slice": "2024-12-18 06:07:20 +0000"
     },
     "done": false
   },
