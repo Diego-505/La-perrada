@@ -116,7 +116,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "wheat": "2024-12-18 06:22:53 +0000"
+      "wheat": "2024-12-18 06:22:53 +0000",
+      "melon": "2024-12-18 06:33:27 +0000"
     },
     "done": false
   },
@@ -215,6 +216,12 @@
   "spelunkery:recipes/stick": {
     "criteria": {
       "has_item": "2024-12-18 05:26:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2024-12-18 06:31:57 +0000"
     },
     "done": true
   },
