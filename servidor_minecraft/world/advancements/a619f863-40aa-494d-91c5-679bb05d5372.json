@@ -219,27 +219,63 @@
     },
     "done": false
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-18 07:20:58 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_gold": {
+    "criteria": {
+      "has_item": "2024-12-18 07:22:07 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-18 07:30:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2024-12-18 07:39:21 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:charm_collector": {
+  "ars_nouveau:novice_spell_book": {
     "criteria": {
-      "charm_collector_3": "2024-12-18 08:18:19 +0000"
-    },
-    "done": false
-  },
-  "betterarcheology:fossil_found": {
-    "criteria": {
-      "betterarcheology:fossil_found": "2024-12-18 08:29:57 +0000"
+      "has_novice_spell_book": "2024-12-18 07:45:50 +0000"
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "spelunkery:recipes/amethyst": {
     "criteria": {
-      "deflected_projectile": "2024-12-18 08:34:45 +0000"
+      "has_item": "2024-12-18 07:46:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-18 07:48:17 +0000"
+    },
+    "done": true
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2024-12-18 07:52:30 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/diamond": {
+    "criteria": {
+      "has_item": "2024-12-18 07:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-18 07:52:54 +0000"
     },
     "done": true
   },
@@ -255,21 +291,75 @@
     },
     "done": true
   },
+  "spelunkery:recipes/emerald": {
+    "criteria": {
+      "has_item": "2024-12-18 07:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-18 08:06:08 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_iron": {
+    "criteria": {
+      "has_item": "2024-12-18 08:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-18 08:11:20 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-18 08:13:02 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_3": "2024-12-18 08:18:19 +0000"
+    },
+    "done": false
+  },
+  "biomemakeover:biomemakeover/create_peat_farmland": {
+    "criteria": {
+      "create_peat": "2024-12-18 08:20:31 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2024-12-18 08:20:36 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2024-12-18 08:20:36 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-18 08:26:06 +0000"
+    },
+    "done": true
+  },
   "create:wrench_goggles": {
     "criteria": {
       "0": "2024-12-18 08:27:23 +0000"
     },
     "done": false
   },
-  "minecraft:adventure/voluntary_exile": {
+  "betterarcheology:fossil_found": {
     "criteria": {
-      "voluntary_exile": "2024-12-18 08:34:47 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2024-12-18 07:30:11 +0000"
+      "betterarcheology:fossil_found": "2024-12-18 08:29:57 +0000"
     },
     "done": true
   },
@@ -280,111 +370,21 @@
     },
     "done": false
   },
-  "spelunkery:recipes/diamond": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "has_item": "2024-12-18 07:52:54 +0000"
+      "deflected_projectile": "2024-12-18 08:34:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-18 08:34:47 +0000"
     },
     "done": true
   },
   "biomemakeover:biomemakeover/cladding_template": {
     "criteria": {
       "get_disc": "2024-12-18 08:34:52 +0000"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/raw_iron": {
-    "criteria": {
-      "has_item": "2024-12-18 08:06:09 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2024-12-18 07:48:17 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:experienced_engineer": {
-    "criteria": {
-      "have_experience_nugget": "2024-12-18 08:20:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
-    "criteria": {
-      "lightning_rod_with_villager_no_fire": "2024-12-18 08:11:20 +0000"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/amethyst": {
-    "criteria": {
-      "has_item": "2024-12-18 07:46:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-12-18 08:06:08 +0000"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/raw_gold": {
-    "criteria": {
-      "has_item": "2024-12-18 07:22:07 +0000"
-    },
-    "done": true
-  },
-  "lootr:10loot": {
-    "criteria": {
-      "loot_stat": "2024-12-18 08:13:02 +0000"
-    },
-    "done": true
-  },
-  "lootr:25loot": {
-    "criteria": {
-      "loot_stat": "2024-12-18 08:26:06 +0000"
-    },
-    "done": true
-  },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2024-12-18 07:20:58 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:recipes/experience_rotor": {
-    "criteria": {
-      "has_item": "2024-12-18 08:20:36 +0000"
-    },
-    "done": true
-  },
-  "idas:castle": {
-    "criteria": {
-      "in_castle": "2024-12-18 07:52:30 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:novice_spell_book": {
-    "criteria": {
-      "has_novice_spell_book": "2024-12-18 07:45:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2024-12-18 07:52:54 +0000"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/emerald": {
-    "criteria": {
-      "has_item": "2024-12-18 07:54:24 +0000"
-    },
-    "done": true
-  },
-  "biomemakeover:biomemakeover/create_peat_farmland": {
-    "criteria": {
-      "create_peat": "2024-12-18 08:20:31 +0000"
     },
     "done": true
   },
