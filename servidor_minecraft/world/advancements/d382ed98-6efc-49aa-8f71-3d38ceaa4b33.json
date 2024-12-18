@@ -114,6 +114,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2024-12-18 06:22:53 +0000"
+    },
+    "done": false
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-18 05:10:46 +0000"
@@ -253,6 +259,12 @@
     },
     "done": false
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-18 06:22:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "flint_knife": "2024-12-18 05:10:46 +0000"
@@ -287,6 +299,12 @@
   "regions_unexplored:parent": {
     "criteria": {
       "load_in_world": "2024-12-18 05:10:47 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/create_peat_farmland": {
+    "criteria": {
+      "create_peat": "2024-12-18 06:21:16 +0000"
     },
     "done": true
   },

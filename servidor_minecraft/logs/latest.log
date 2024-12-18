@@ -15276,3 +15276,11 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [18Dec2024 06:05:23.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [The Wind Darkening]
 [18Dec2024 06:06:29.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sheylike> ZZZZZZZZZZZZZZZZZ
 [18Dec2024 06:10:03.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has made the advancement [Acquire Hardware]
+[18Dec2024 06:17:32.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-832, y=78, z=230} BlockPos{x=-832, y=76, z=229}
+[18Dec2024 06:17:32.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-832, y=78, z=230} BlockPos{x=-832, y=76, z=229}
+[18Dec2024 06:17:32.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-832, y=78, z=230} BlockPos{x=-832, y=76, z=229}
+[18Dec2024 06:17:41.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-853, y=79, z=212} BlockPos{x=-853, y=77, z=214}
+[18Dec2024 06:17:42.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-853, y=79, z=212} BlockPos{x=-853, y=77, z=214}
+[18Dec2024 06:17:42.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-853, y=79, z=212} BlockPos{x=-853, y=77, z=214}
+[18Dec2024 06:21:16.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has made the advancement [Faster Farmland]
+[18Dec2024 06:22:53.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has made the advancement [A Seedy Place]
