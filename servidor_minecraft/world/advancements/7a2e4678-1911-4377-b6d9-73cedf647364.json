@@ -1159,6 +1159,12 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-12-18 23:13:10 +0000"
+    },
+    "done": true
+  },
   "spelunkery:recipes/raw_copper": {
     "criteria": {
       "has_item": "2024-12-18 22:12:00 +0000"
@@ -1189,6 +1195,12 @@
       "ancient_delta": "2024-12-18 22:10:28 +0000"
     },
     "done": false
+  },
+  "spelunkery:recipes/copper_ingot": {
+    "criteria": {
+      "has_item": "2024-12-18 23:13:10 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
