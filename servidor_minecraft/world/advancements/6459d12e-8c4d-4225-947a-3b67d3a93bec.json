@@ -175,9 +175,21 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-18 08:02:33 +0000"
+    },
+    "done": true
+  },
   "spelunkery:recipes/minecart": {
     "criteria": {
       "has_item": "2024-12-18 07:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-18 08:03:11 +0000"
     },
     "done": true
   },
@@ -330,6 +342,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "honey_bottle": "2024-12-18 08:00:43 +0000",
       "cooked_beef": "2024-12-18 06:11:42 +0000",
       "mutton": "2024-12-18 05:25:22 +0000",
       "cooked_mutton": "2024-12-18 07:30:26 +0000",

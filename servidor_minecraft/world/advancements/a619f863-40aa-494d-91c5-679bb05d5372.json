@@ -282,5 +282,11 @@
     },
     "done": true
   },
+  "spelunkery:recipes/emerald": {
+    "criteria": {
+      "has_item": "2024-12-18 07:54:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

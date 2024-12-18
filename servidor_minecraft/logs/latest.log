@@ -15532,3 +15532,61 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [18Dec2024 07:53:10.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [Isn't It Iron Pick]
 [18Dec2024 07:53:10.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [Acquire Hardware]
 [18Dec2024 07:58:09.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has made the advancement [Diamonds!]
+[18Dec2024 08:00:06.458] [pool-14-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / integrated_villages:mediterranean_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:marketstead_village], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red], ResourceKey[minecraft:worldgen/structure / integrated_villages:mossy_mounds], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / integrated_villages:quark/minka_village], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / idas:farmhouse]] from pos BlockPos{x=-245, y=79, z=981}
+[18Dec2024 08:00:06.513] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-245, y=79, z=980} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[18Dec2024 08:00:06.513] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-245, y=79, z=980}
+[18Dec2024 08:00:06.514] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-245, y=78, z=980} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[18Dec2024 08:00:06.514] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-245, y=78, z=980}
+[18Dec2024 08:00:06.707] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-245, y=79, z=981} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[18Dec2024 08:00:06.708] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-245, y=79, z=981}
+[18Dec2024 08:01:40.935] [Worker-Main-94/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"artifacts:villager_hat"}
+[18Dec2024 08:01:41.038] [Worker-Main-104/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-535, y=97, z=1161}
+[18Dec2024 08:01:41.038] [Worker-Main-104/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-535, y=97, z=1160}
+[18Dec2024 08:01:41.039] [Worker-Main-104/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 08:01:41.039] [Worker-Main-104/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 08:01:41.040] [Worker-Main-104/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 08:01:41.040] [Worker-Main-104/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 08:01:41.040] [Worker-Main-104/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 08:01:41.041] [Worker-Main-104/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 08:02:09.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has made the advancement [Best Friends Forever]
+[18Dec2024 08:02:33.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[18Dec2024 08:02:33.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lech3Materna has made the advancement [This Must be a Sign!]
+[18Dec2024 08:02:43.157] [Server thread/ERROR] [Map Atlases/]: Duplicate map key MapKey[mapX=-896, mapZ=256, slice=Slice{type=VANILLA, height=82}] found in level minecraft:overworld
+[18Dec2024 08:02:43.158] [Server thread/ERROR] [Map Atlases/]: Duplicate map key MapKey[mapX=-896, mapZ=256, slice=Slice{type=VANILLA, height=82}] found in level minecraft:overworld
+[18Dec2024 08:02:43.158] [Server thread/ERROR] [Map Atlases/]: Duplicate map key MapKey[mapX=-896, mapZ=256, slice=Slice{type=VANILLA, height=82}] found in level minecraft:overworld
+[18Dec2024 08:02:47.879] [Server thread/ERROR] [Map Atlases/]: Duplicate map key MapKey[mapX=-896, mapZ=256, slice=Slice{type=VANILLA, height=82}] found in level minecraft:overworld
+[18Dec2024 08:02:49.197] [Server thread/ERROR] [Map Atlases/]: Duplicate map key MapKey[mapX=-896, mapZ=256, slice=Slice{type=VANILLA, height=82}] found in level minecraft:overworld
+[18Dec2024 08:02:49.197] [Server thread/ERROR] [Map Atlases/]: Duplicate map key MapKey[mapX=-896, mapZ=256, slice=Slice{type=VANILLA, height=82}] found in level minecraft:overworld
+[18Dec2024 08:02:49.198] [Server thread/ERROR] [Map Atlases/]: Duplicate map key MapKey[mapX=-896, mapZ=256, slice=Slice{type=VANILLA, height=82}] found in level minecraft:overworld
+[18Dec2024 08:02:51.301] [pool-14-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / integrated_villages:marketstead_village], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / integrated_villages:quark/minka_village], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red], ResourceKey[minecraft:worldgen/structure / integrated_villages:tavern_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:cabin_village]] from pos BlockPos{x=-827, y=86, z=1013}
+[18Dec2024 08:02:58.594] [Server thread/ERROR] [Map Atlases/]: Duplicate map key MapKey[mapX=-896, mapZ=256, slice=Slice{type=VANILLA, height=82}] found in level minecraft:overworld
+[18Dec2024 08:02:58.595] [Server thread/ERROR] [Map Atlases/]: Duplicate map key MapKey[mapX=-896, mapZ=256, slice=Slice{type=VANILLA, height=82}] found in level minecraft:overworld
+[18Dec2024 08:02:58.595] [Server thread/ERROR] [Map Atlases/]: Duplicate map key MapKey[mapX=-896, mapZ=256, slice=Slice{type=VANILLA, height=82}] found in level minecraft:overworld
+[18Dec2024 08:03:03.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18Dec2024 08:03:11.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lech3Materna has made the advancement [Best Friends Forever]
+[18Dec2024 08:03:29.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[18Dec2024 08:03:57.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[18Dec2024 08:04:17.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[18Dec2024 08:04:34.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2340ms or 46 ticks behind
+[18Dec2024 08:04:52.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[18Dec2024 08:05:13.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5909ms or 118 ticks behind
+[18Dec2024 08:05:32.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4346ms or 86 ticks behind
+[18Dec2024 08:05:33.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv has made the advancement [Close Quarters]
+[18Dec2024 08:05:50.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2730ms or 54 ticks behind
+[18Dec2024 08:06:08.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [Best Friends Forever]
+[18Dec2024 08:06:09.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3915ms or 78 ticks behind
+[18Dec2024 08:06:12.088] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/94844, l='ServerLevel[world]', x=-403.36, y=86.23, z=1001.96] died, message: 'Farmer was slain by Vindicator'
+[18Dec2024 08:06:26.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2341ms or 46 ticks behind
+[18Dec2024 08:06:57.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[18Dec2024 08:07:14.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2215ms or 44 ticks behind
+[18Dec2024 08:07:32.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[18Dec2024 08:07:50.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2339ms or 46 ticks behind
+[18Dec2024 08:08:03.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.29890079300139405
+[18Dec2024 08:08:03.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.3125230338712299
+[18Dec2024 08:08:03.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.32631560617562627
+[18Dec2024 08:08:03.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.34999254774265864
+[18Dec2024 08:08:03.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.3657430741926646
+[18Dec2024 08:08:03.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.39791532692890996
+[18Dec2024 08:08:03.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.4012248770457063
+[18Dec2024 08:08:03.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.4350278574755748
+[18Dec2024 08:08:03.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.4360108682143391

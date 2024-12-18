@@ -411,9 +411,27 @@
     },
     "done": true
   },
+  "spelunkery:recipes/diamond": {
+    "criteria": {
+      "has_item": "2024-12-18 07:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-18 08:02:09 +0000"
+    },
+    "done": true
+  },
   "idas:castle": {
     "criteria": {
       "in_castle": "2024-12-18 07:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-18 07:58:09 +0000"
     },
     "done": true
   },
