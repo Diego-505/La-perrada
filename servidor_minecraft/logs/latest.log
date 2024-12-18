@@ -15293,3 +15293,10 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [18Dec2024 06:45:03.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike was shot by Skeleton
 [18Dec2024 06:45:05.141] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [18Dec2024 06:45:16.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sheylike> zzzzz
+[18Dec2024 06:49:06.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool was slain by Nightmare Stalker
+[18Dec2024 06:49:08.590] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Dec2024 06:49:42.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike was shot by Skeleton
+[18Dec2024 06:49:47.441] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Dec2024 06:56:13.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-813, y=78, z=306} BlockPos{x=-814, y=78, z=306}
+[18Dec2024 06:56:34.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Voluntary Exile]
+[18Dec2024 06:56:38.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has made the advancement [Gone Bananas!]

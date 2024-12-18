@@ -288,6 +288,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-18 06:44:01 +0000",
       "bread": "2024-12-18 05:22:24 +0000",
       "melon_slice": "2024-12-18 06:07:20 +0000"
     },
@@ -308,6 +309,12 @@
   "spelunkery:recipes/emerald": {
     "criteria": {
       "has_item": "2024-12-18 05:26:17 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/soulbound": {
+    "criteria": {
+      "item": "2024-12-18 06:44:40 +0000"
     },
     "done": true
   },
