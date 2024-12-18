@@ -15241,3 +15241,6 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [18Dec2024 20:25:08.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [Stone Age]
 [18Dec2024 20:28:58.239] [Server thread/INFO] [FrozenLib/]: Loading config ItemConfig from wilderwild
 [18Dec2024 20:28:58.246] [Server thread/INFO] [FrozenLib/]: Saving config ItemConfig from wilderwild
+[18Dec2024 20:39:00.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [This Must be a Sign!]
+[18Dec2024 20:39:22.491] [Worker-Main-3/INFO] [TerraBlenderFix/]: Optimizing surface rules
+[18Dec2024 20:39:22.500] [Worker-Main-3/INFO] [Wilder Wild/]: Wilder Wild's Overworld Surface Rules have been added!
