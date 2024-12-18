@@ -179,7 +179,8 @@
       "minecraft:skeleton": "2024-12-15 09:00:04 +0000",
       "minecraft:spider": "2024-12-18 20:26:08 +0000",
       "minecraft:creeper": "2024-12-18 08:48:29 +0000",
-      "minecraft:zombie": "2024-12-15 09:00:32 +0000"
+      "minecraft:zombie": "2024-12-15 09:00:32 +0000",
+      "minecraft:zombie_villager": "2024-12-18 21:02:33 +0000"
     },
     "done": false
   },
@@ -518,6 +519,12 @@
   "spelunkery:recipes/raw_magnetite_nugget": {
     "criteria": {
       "has_item": "2024-12-18 20:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-18 21:05:10 +0000"
     },
     "done": true
   },
