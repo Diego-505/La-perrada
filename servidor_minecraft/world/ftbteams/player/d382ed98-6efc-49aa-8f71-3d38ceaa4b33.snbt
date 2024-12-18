@@ -1,0 +1,15 @@
+{
+	id: "d382ed98-6efc-49aa-8f71-3d38ceaa4b33"
+	type: "player"
+	player_name: "Sheylike"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Sheylike"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFF959"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

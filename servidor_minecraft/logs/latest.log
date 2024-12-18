@@ -15197,3 +15197,38 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [18Dec2024 05:00:43.286] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d5be715[id=d382ed98-6efc-49aa-8f71-3d38ceaa4b33,name=Sheylike,properties={textures=[com.mojang.authlib.properties.Property@2ca9e8ea]},legacy=false] (/10.241.179.8:54376) lost connection: Disconnected
 [18Dec2024 05:03:04.410] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sheylike is d382ed98-6efc-49aa-8f71-3d38ceaa4b33
 [18Dec2024 05:03:04.583] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@187744ab[id=d382ed98-6efc-49aa-8f71-3d38ceaa4b33,name=Sheylike,properties={textures=[com.mojang.authlib.properties.Property@60c98f0a]},legacy=false] (/10.241.179.8:51929) lost connection: Disconnected
+[18Dec2024 05:10:36.637] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sheylike is d382ed98-6efc-49aa-8f71-3d38ceaa4b33
+[18Dec2024 05:10:46.046] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sheylike[/10.241.179.8:53007] logged in with entity id 4376 at (-80.5, 89.0, 179.5)
+[18Dec2024 05:10:46.085] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Dec2024 05:10:46.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike joined the game
+[18Dec2024 05:10:46.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has made the advancement [Hunt and Gather]
+[18Dec2024 05:10:46.324] [Server thread/INFO] [Jade/]: Syncing config to Sheylike (d382ed98-6efc-49aa-8f71-3d38ceaa4b33)
+[18Dec2024 05:10:46.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has made the advancement [Ice and Fire]
+[18Dec2024 05:10:46.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has made the advancement [Integrated Dungeons and Structures]
+[18Dec2024 05:10:48.617] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sheylike (18)
+[18Dec2024 05:10:48.617] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sheylike
+[18Dec2024 05:10:48.619] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Dec2024 05:10:48.619] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Dec2024 05:10:48.619] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Dec2024 05:10:48.620] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Dec2024 05:10:48.620] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Dec2024 05:10:48.620] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Dec2024 05:10:48.620] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Dec2024 05:10:48.620] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Dec2024 05:10:48.620] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Dec2024 05:10:48.621] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Dec2024 05:10:48.621] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Dec2024 05:10:48.621] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Dec2024 05:10:48.621] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Dec2024 05:10:48.621] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Dec2024 05:10:48.621] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Dec2024 05:10:48.621] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Dec2024 05:10:48.622] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Dec2024 05:10:48.622] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/fluffy-pancake/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Dec2024 05:10:52.445] [Server thread/INFO] [FrozenLib/]: Loading config ItemConfig from wilderwild
+[18Dec2024 05:10:52.449] [Server thread/INFO] [FrozenLib/]: Saving config ItemConfig from wilderwild
+[18Dec2024 05:11:07.894] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d382ed98-6efc-49aa-8f71-3d38ceaa4b33
+[18Dec2024 05:11:08.896] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d382ed98-6efc-49aa-8f71-3d38ceaa4b33
+[18Dec2024 05:11:08.897] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sheylike (d382ed98-6efc-49aa-8f71-3d38ceaa4b33) successfully connected to voice chat
+[18Dec2024 05:11:43.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sheylike> a
+[18Dec2024 05:13:14.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has reached the goal [True North? Due North]

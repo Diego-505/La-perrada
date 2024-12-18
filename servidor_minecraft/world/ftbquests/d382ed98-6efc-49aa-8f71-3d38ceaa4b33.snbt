@@ -1,0 +1,19 @@
+{
+	version: 1
+	uuid: "d382ed986efc49aa8f713d38ceaa4b33"
+	name: "Sheylike#d382ed98"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		74783BBBA7AD867A: 985
+	}
+	started: {
+		74783BBBA7AD867A: 1734498646469L
+		0000000000000001: 1734498646469L
+		526BC7C6C60EA979: 1734498646469L
+		3F43F8C8962D3A93: 1734498646469L
+	}
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

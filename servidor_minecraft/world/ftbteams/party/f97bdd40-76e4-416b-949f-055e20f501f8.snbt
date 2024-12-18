@@ -1,0 +1,22 @@
+{
+	id: "f97bdd40-76e4-416b-949f-055e20f501f8"
+	type: "party"
+	owner: "7a2e4678-1911-4377-b6d9-73cedf647364"
+	ranks: {
+		7a2e4678-1911-4377-b6d9-73cedf647364: "owner"
+		d382ed98-6efc-49aa-8f71-3d38ceaa4b33: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "holi"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF90"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1734498688150L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Myth_Pool\"}]}" }
+		{ from: "7a2e4678-1911-4377-b6d9-73cedf647364", date: 1734498688158L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Sheylike\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1734498695306L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Sheylike\"}]}" }
+	]
+	extra: { }
+}

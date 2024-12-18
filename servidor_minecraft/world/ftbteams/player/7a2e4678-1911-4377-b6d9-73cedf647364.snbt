@@ -2,9 +2,7 @@
 	id: "7a2e4678-1911-4377-b6d9-73cedf647364"
 	type: "player"
 	player_name: "Myth_Pool"
-	ranks: {
-		7a2e4678-1911-4377-b6d9-73cedf647364: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Myth_Pool"
 		"ftbteams:description": ""
