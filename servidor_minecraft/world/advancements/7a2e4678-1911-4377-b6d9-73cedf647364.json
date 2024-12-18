@@ -112,6 +112,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-15 08:52:09 +0000",
       "cooked_beef": "2024-12-15 09:25:06 +0000",
+      "suspicious_stew": "2024-12-18 07:04:21 +0000",
       "cooked_chicken": "2024-12-15 23:22:00 +0000",
       "cooked_mutton": "2024-12-15 09:09:40 +0000",
       "apple": "2024-12-15 09:13:38 +0000",
@@ -852,11 +853,35 @@
     },
     "done": true
   },
+  "supplementaries:husbandry/sus_stew": {
+    "criteria": {
+      "stew": "2024-12-18 07:04:21 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/quartz": {
+    "criteria": {
+      "has_item": "2024-12-18 07:06:40 +0000"
+    },
+    "done": true
+  },
   "spelunkery:recipes/charcoal_lump": {
     "criteria": {
       "has_item": "2024-12-18 06:21:43 +0000"
     },
     "done": true
+  },
+  "betterarcheology:artifact_shards": {
+    "criteria": {
+      "has_shards": "2024-12-18 07:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-18 07:05:38 +0000"
+    },
+    "done": false
   },
   "born_in_chaos_v1:exorcism": {
     "criteria": {

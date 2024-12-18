@@ -110,6 +110,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-18 05:30:06 +0000",
+      "minecraft:spider": "2024-12-18 07:13:14 +0000",
       "minecraft:zombie": "2024-12-18 05:23:47 +0000"
     },
     "done": false
@@ -190,6 +191,12 @@
   "minecraft:recipes/woodcutting/oak/barrel_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 05:41:30 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/rough_gem": {
+    "criteria": {
+      "item": "2024-12-18 07:11:32 +0000"
     },
     "done": true
   },
@@ -355,6 +362,12 @@
   "spelunkery:recipes/emerald": {
     "criteria": {
       "has_item": "2024-12-18 05:26:17 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_emerald": {
+    "criteria": {
+      "has_item": "2024-12-18 07:11:32 +0000"
     },
     "done": true
   },

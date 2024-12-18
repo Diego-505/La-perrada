@@ -1,10 +1,4 @@
 {
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2024-12-15 09:19:00 +0000"
-    },
-    "done": true
-  },
   "idas:idas_root": {
     "criteria": {
       "always": "2024-12-15 08:46:34 +0000"
@@ -17,15 +11,143 @@
     },
     "done": true
   },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-15 08:46:34 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-12-15 08:46:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-12-15 08:46:34 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:misc/yellow_dye_from_buttercup": {
+    "criteria": {
+      "has_the_recipe": "2024-12-15 08:46:34 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2024-12-15 08:46:34 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:integrated_villages_root": {
+    "criteria": {
+      "always": "2024-12-15 08:46:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2024-12-15 08:46:37 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2024-12-15 08:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2024-12-15 09:14:44 +0000",
+      "minecraft:river": "2024-12-15 08:59:36 +0000",
+      "minecraft:savanna": "2024-12-15 08:46:37 +0000",
+      "minecraft:plains": "2024-12-15 09:02:05 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-12-15 08:46:37 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2024-12-15 08:47:59 +0000"
     },
     "done": true
   },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-15 08:47:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2024-12-15 08:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-15 08:49:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "beef": "2024-12-15 09:01:25 +0000",
+      "porkchop": "2024-12-15 09:01:20 +0000",
+      "cooked_mutton": "2024-12-15 09:10:39 +0000",
+      "bread": "2024-12-15 08:49:28 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "rocky_meadow": "2024-12-15 08:51:01 +0000",
+      "prairie": "2024-12-15 08:54:58 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "rocky_meadow": "2024-12-15 08:51:01 +0000",
+      "prairie": "2024-12-15 08:54:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/acacia/stripped_acacia_log_from_acacia_log_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-15 08:51:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-15 08:51:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "mauve_log": "2024-12-15 08:52:01 +0000"
+    },
+    "done": false
+  },
+  "spelunkery:recipes/stick": {
+    "criteria": {
+      "has_item": "2024-12-15 08:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-15 08:55:23 +0000"
     },
     "done": true
   },
@@ -48,64 +170,9 @@
     },
     "done": false
   },
-  "mowziesmobs:root": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "custom_test_name": "2024-12-15 08:46:34 +0000"
-    },
-    "done": true
-  },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2024-12-15 08:46:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-15 08:49:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2024-12-15 08:46:34 +0000"
-    },
-    "done": true
-  },
-  "lootr:social": {
-    "criteria": {
-      "opened_chest": "2024-12-15 09:19:00 +0000"
-    },
-    "done": false
-  },
-  "betternether:root": {
-    "criteria": {
-      "welcome": "2024-12-15 08:46:37 +0000"
-    },
-    "done": true
-  },
-  "betterend:root": {
-    "criteria": {
-      "welcome": "2024-12-15 08:46:37 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:regions_explored": {
-    "criteria": {
-      "rocky_meadow": "2024-12-15 08:51:01 +0000",
-      "prairie": "2024-12-15 08:54:58 +0000"
-    },
-    "done": false
-  },
-  "friendsandfoes:misc/yellow_dye_from_buttercup": {
-    "criteria": {
-      "has_the_recipe": "2024-12-15 08:46:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2024-12-15 08:47:59 +0000"
+      "minecraft:skeleton": "2024-12-15 09:00:04 +0000"
     },
     "done": true
   },
@@ -115,72 +182,11 @@
     },
     "done": true
   },
-  "spelunkery:recipes/stick": {
-    "criteria": {
-      "has_item": "2024-12-15 08:53:25 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:pioneer": {
-    "criteria": {
-      "rocky_meadow": "2024-12-15 08:51:01 +0000",
-      "prairie": "2024-12-15 08:54:58 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2024-12-15 08:55:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:skeleton": "2024-12-15 09:00:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:sparse_jungle": "2024-12-15 09:14:44 +0000",
-      "minecraft:river": "2024-12-15 08:59:36 +0000",
-      "minecraft:savanna": "2024-12-15 08:46:37 +0000",
-      "minecraft:plains": "2024-12-15 09:02:05 +0000"
-    },
-    "done": false
-  },
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2024-12-15 09:12:42 +0000"
     },
     "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "flint_knife": "2024-12-15 08:47:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "beef": "2024-12-15 09:01:25 +0000",
-      "porkchop": "2024-12-15 09:01:20 +0000",
-      "cooked_mutton": "2024-12-15 09:10:39 +0000",
-      "bread": "2024-12-15 08:49:28 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:bornin_chaos": {
-    "criteria": {
-      "bornin_chaos_0": "2024-12-15 08:46:34 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:got_wood": {
-    "criteria": {
-      "mauve_log": "2024-12-15 08:52:01 +0000"
-    },
-    "done": false
   },
   "minecraft:story/root": {
     "criteria": {
@@ -188,23 +194,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_log_woodcutting": {
+  "lootr:1chest": {
     "criteria": {
-      "give_recipe": "2024-12-15 08:51:33 +0000"
+      "opened_chest": "2024-12-15 09:19:00 +0000"
     },
     "done": true
   },
-  "regions_unexplored:parent": {
+  "lootr:social": {
     "criteria": {
-      "load_in_world": "2024-12-15 08:46:37 +0000"
+      "opened_chest": "2024-12-15 09:19:00 +0000"
     },
-    "done": true
-  },
-  "integrated_villages:integrated_villages_root": {
-    "criteria": {
-      "always": "2024-12-15 08:46:34 +0000"
-    },
-    "done": true
+    "done": false
   },
   "DataVersion": 3465
 }
