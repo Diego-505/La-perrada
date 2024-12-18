@@ -15342,3 +15342,7 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [18Dec2024 21:43:31.678] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d382ed98-6efc-49aa-8f71-3d38ceaa4b33
 [18Dec2024 21:43:32.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d382ed98-6efc-49aa-8f71-3d38ceaa4b33
 [18Dec2024 21:43:32.718] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sheylike (d382ed98-6efc-49aa-8f71-3d38ceaa4b33) successfully connected to voice chat
+[18Dec2024 22:09:49.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [That's Rough, Buddy]
+[18Dec2024 22:09:49.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [A Diamond in the Rough]
+[18Dec2024 22:10:07.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [The Cutest Predator]
+[18Dec2024 22:11:15.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [The Cutest Predator]

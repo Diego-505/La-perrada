@@ -81,15 +81,18 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "ancient_delta": "2024-12-18 22:10:28 +0000",
       "grassy_beach": "2024-12-18 07:01:03 +0000",
       "rocky_meadow": "2024-12-14 23:45:29 +0000",
+      "tropical_river": "2024-12-18 22:04:46 +0000",
       "outback": "2024-12-18 21:58:38 +0000",
       "deciduous_forest": "2024-12-15 10:57:42 +0000",
       "bamboo_forest": "2024-12-18 21:03:50 +0000",
       "temperate_grove": "2024-12-15 23:52:33 +0000",
       "grassland": "2024-12-15 10:56:30 +0000",
       "prairie": "2024-12-15 08:54:56 +0000",
-      "redwoods": "2024-12-16 19:58:08 +0000"
+      "redwoods": "2024-12-16 19:58:08 +0000",
+      "bioshroom_caves": "2024-12-18 22:10:08 +0000"
     },
     "done": false
   },
@@ -97,6 +100,7 @@
     "criteria": {
       "grassy_beach": "2024-12-18 07:01:03 +0000",
       "rocky_meadow": "2024-12-14 23:45:29 +0000",
+      "tropical_river": "2024-12-18 22:04:46 +0000",
       "outback": "2024-12-18 21:58:38 +0000",
       "deciduous_forest": "2024-12-15 10:57:42 +0000",
       "bamboo_forest": "2024-12-18 21:03:50 +0000",
@@ -376,6 +380,7 @@
       "minecraft:vindicator": "2024-12-15 10:55:51 +0000",
       "minecraft:spider": "2024-12-15 09:00:48 +0000",
       "minecraft:creeper": "2024-12-15 23:20:23 +0000",
+      "minecraft:slime": "2024-12-18 22:04:51 +0000",
       "minecraft:witch": "2024-12-15 23:32:06 +0000",
       "minecraft:cave_spider": "2024-12-15 10:54:07 +0000",
       "minecraft:silverfish": "2024-12-15 10:50:30 +0000",
@@ -1154,6 +1159,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/raw_copper": {
+    "criteria": {
+      "has_item": "2024-12-18 22:12:00 +0000"
+    },
+    "done": true
+  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2024-12-18 20:39:00 +0000"
@@ -1166,9 +1177,22 @@
     },
     "done": true
   },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "bioshroom_caves": "2024-12-18 22:10:08 +0000",
+      "ancient_delta": "2024-12-18 22:10:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 21:39:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-12-18 22:11:15 +0000"
     },
     "done": true
   },
