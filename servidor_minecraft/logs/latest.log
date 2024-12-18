@@ -15287,3 +15287,9 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [18Dec2024 06:32:22.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Faster Farmland]
 [18Dec2024 06:32:56.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [A Seedy Place]
 [18Dec2024 06:35:27.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has made the advancement [Suit Up]
+[18Dec2024 06:44:35.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike was slain by Nightmare Stalker
+[18Dec2024 06:44:40.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has completed the challenge [Soulbound]
+[18Dec2024 06:44:40.321] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Dec2024 06:45:03.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike was shot by Skeleton
+[18Dec2024 06:45:05.141] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Dec2024 06:45:16.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sheylike> zzzzz

@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-18 06:35:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:unlock_deep_pockets_book": {
     "criteria": {
       "exists": "2024-12-18 05:10:46 +0000"
@@ -191,7 +197,8 @@
     "criteria": {
       "rocky_meadow": "2024-12-18 05:16:32 +0000",
       "deciduous_forest": "2024-12-18 05:22:17 +0000",
-      "prairie": "2024-12-18 05:21:14 +0000"
+      "prairie": "2024-12-18 05:21:14 +0000",
+      "redwoods": "2024-12-18 06:43:41 +0000"
     },
     "done": false
   },
@@ -229,7 +236,8 @@
     "criteria": {
       "rocky_meadow": "2024-12-18 05:16:32 +0000",
       "deciduous_forest": "2024-12-18 05:22:17 +0000",
-      "prairie": "2024-12-18 05:21:14 +0000"
+      "prairie": "2024-12-18 05:21:14 +0000",
+      "redwoods": "2024-12-18 06:43:41 +0000"
     },
     "done": false
   },
