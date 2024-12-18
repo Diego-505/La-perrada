@@ -775,5 +775,89 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_chest_boat_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 05:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_fence_gate_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 05:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_button_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 05:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_door_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 05:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/barrel_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 05:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_fence_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 05:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_stairs_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 05:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_trapdoor_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 05:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_slab_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 05:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/crafting_table_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 05:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_boat_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 05:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_pressure_plate_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 05:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_sign_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 05:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/chest_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 05:56:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
