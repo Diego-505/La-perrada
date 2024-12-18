@@ -80,7 +80,8 @@
       "minecraft:lush_caves": "2024-12-15 10:53:25 +0000",
       "minecraft:jungle": "2024-12-15 09:24:09 +0000",
       "minecraft:savanna": "2024-12-15 08:46:38 +0000",
-      "minecraft:plains": "2024-12-15 09:01:58 +0000"
+      "minecraft:plains": "2024-12-15 09:01:58 +0000",
+      "autumnity:autumnity:pumpkin_fields": "2024-12-18 07:36:32 +0000"
     },
     "done": false
   },
@@ -217,6 +218,7 @@
       "grassy_beach": "2024-12-15 11:06:05 +0000",
       "rocky_meadow": "2024-12-15 08:51:10 +0000",
       "deciduous_forest": "2024-12-18 07:29:27 +0000",
+      "temperate_grove": "2024-12-18 07:36:31 +0000",
       "grassland": "2024-12-15 11:01:32 +0000",
       "prairie": "2024-12-15 08:55:03 +0000"
     },
@@ -227,6 +229,7 @@
       "grassy_beach": "2024-12-15 11:06:05 +0000",
       "rocky_meadow": "2024-12-15 08:51:10 +0000",
       "deciduous_forest": "2024-12-18 07:29:27 +0000",
+      "temperate_grove": "2024-12-18 07:36:31 +0000",
       "grassland": "2024-12-15 11:01:32 +0000",
       "prairie": "2024-12-15 08:55:03 +0000"
     },
@@ -758,30 +761,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "wheat": "2024-12-18 07:16:59 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-12-18 07:33:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/harvest_straw": {
-    "criteria": {
-      "harvest_straw": "2024-12-18 07:18:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2024-12-18 07:16:59 +0000"
-    },
-    "done": true
-  },
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2024-12-18 07:03:45 +0000"
@@ -791,6 +770,54 @@
   "biomemakeover:biomemakeover/create_peat_farmland": {
     "criteria": {
       "create_peat": "2024-12-18 07:15:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2024-12-18 07:16:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-18 07:16:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2024-12-18 07:18:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-18 07:33:36 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2024-12-18 07:34:54 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2024-12-18 07:34:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-18 07:36:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2024-12-18 07:40:22 +0000"
     },
     "done": true
   },
