@@ -216,6 +216,7 @@
     "criteria": {
       "grassy_beach": "2024-12-15 11:06:05 +0000",
       "rocky_meadow": "2024-12-15 08:51:10 +0000",
+      "deciduous_forest": "2024-12-18 07:29:27 +0000",
       "grassland": "2024-12-15 11:01:32 +0000",
       "prairie": "2024-12-15 08:55:03 +0000"
     },
@@ -225,6 +226,7 @@
     "criteria": {
       "grassy_beach": "2024-12-15 11:06:05 +0000",
       "rocky_meadow": "2024-12-15 08:51:10 +0000",
+      "deciduous_forest": "2024-12-18 07:29:27 +0000",
       "grassland": "2024-12-15 11:01:32 +0000",
       "prairie": "2024-12-15 08:55:03 +0000"
     },
@@ -761,6 +763,12 @@
       "wheat": "2024-12-18 07:16:59 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-18 07:33:36 +0000"
+    },
+    "done": true
   },
   "farmersdelight:main/harvest_straw": {
     "criteria": {

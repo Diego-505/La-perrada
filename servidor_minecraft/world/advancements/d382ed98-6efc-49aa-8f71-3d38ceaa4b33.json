@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_stripped_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 07:30:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 05:41:30 +0000"
@@ -352,7 +358,8 @@
     "criteria": {
       "cooked_mutton": "2024-12-18 06:44:01 +0000",
       "bread": "2024-12-18 05:22:24 +0000",
-      "melon_slice": "2024-12-18 06:07:20 +0000"
+      "melon_slice": "2024-12-18 06:07:20 +0000",
+      "carrot": "2024-12-18 07:25:26 +0000"
     },
     "done": false
   },

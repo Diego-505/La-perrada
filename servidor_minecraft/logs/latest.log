@@ -15401,3 +15401,29 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [18Dec2024 07:27:51.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lech3Materna has made the advancement [Suit Up]
 [18Dec2024 07:27:59.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lech3Materna has made the advancement [Acquire Hardware]
 [18Dec2024 07:27:59.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lech3Materna has made the advancement [Unbreaking X]
+[18Dec2024 07:29:09.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike was slain by Nightmare Stalker
+[18Dec2024 07:29:10.973] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Dec2024 07:29:36.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike was slain by Nightmare Stalker
+[18Dec2024 07:29:41.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool was slain by Nightmare Stalker
+[18Dec2024 07:29:43.056] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Dec2024 07:29:46.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ was slain by Nightmare Stalker
+[18Dec2024 07:29:48.126] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Dec2024 07:29:48.727] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Dec2024 07:30:03.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[18Dec2024 07:30:11.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has reached the goal [Fighting Nightmares]
+[18Dec2024 07:30:21.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
+[18Dec2024 07:30:39.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2885ms or 57 ticks behind
+[18Dec2024 07:30:57.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18Dec2024 07:31:14.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2315ms or 46 ticks behind
+[18Dec2024 07:31:32.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2632ms or 52 ticks behind
+[18Dec2024 07:31:43.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ withered away
+[18Dec2024 07:31:44.774] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Dec2024 07:32:01.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[18Dec2024 07:33:36.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv has made the advancement [Best Friends Forever]
+[18Dec2024 07:33:57.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ withered away
+[18Dec2024 07:33:59.014] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Dec2024 07:34:29.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike withered away
+[18Dec2024 07:34:30.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ withered away
+[18Dec2024 07:34:31.905] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Dec2024 07:34:59.963] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Dec2024 07:36:01.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv has made the advancement [Mine? Mine? Mine?]

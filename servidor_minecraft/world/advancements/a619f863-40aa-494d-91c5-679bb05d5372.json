@@ -208,6 +208,12 @@
     },
     "done": false
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-18 07:30:11 +0000"
+    },
+    "done": true
+  },
   "spelunkery:recipes/raw_gold": {
     "criteria": {
       "has_item": "2024-12-18 07:22:07 +0000"
