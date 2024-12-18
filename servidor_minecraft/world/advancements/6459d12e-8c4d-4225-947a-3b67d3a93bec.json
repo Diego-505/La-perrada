@@ -1,25 +1,193 @@
 {
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2024-12-18 07:08:14 +0000"
-    },
-    "done": true
-  },
   "idas:idas_root": {
     "criteria": {
       "always": "2024-12-18 05:17:42 +0000"
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2024-12-18 07:27:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:unlock_deep_pockets_book": {
     "criteria": {
       "exists": "2024-12-18 05:17:42 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-18 05:17:42 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-12-18 05:17:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-12-18 05:17:42 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:misc/yellow_dye_from_buttercup": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 05:17:42 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2024-12-18 05:17:42 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:integrated_villages_root": {
+    "criteria": {
+      "always": "2024-12-18 05:17:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2024-12-18 05:17:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2024-12-18 05:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2024-12-18 06:11:50 +0000",
+      "minecraft:river": "2024-12-18 05:22:13 +0000",
+      "minecraft:desert": "2024-12-18 08:23:18 +0000",
+      "minecraft:savanna": "2024-12-18 05:17:43 +0000",
+      "minecraft:plains": "2024-12-18 05:25:32 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-12-18 05:17:43 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-18 05:20:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-18 05:20:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2024-12-18 05:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-18 05:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-18 05:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "honey_bottle": "2024-12-18 08:00:43 +0000",
+      "cooked_beef": "2024-12-18 06:11:42 +0000",
+      "mutton": "2024-12-18 05:25:22 +0000",
+      "cooked_mutton": "2024-12-18 07:30:26 +0000",
+      "bread": "2024-12-18 05:21:06 +0000",
+      "melon_slice": "2024-12-18 05:48:02 +0000",
+      "cod": "2024-12-18 05:27:55 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "rocky_meadow": "2024-12-18 05:21:21 +0000",
+      "outback": "2024-12-18 08:23:05 +0000",
+      "deciduous_forest": "2024-12-18 05:22:21 +0000",
+      "grassland": "2024-12-18 07:50:20 +0000",
+      "prairie": "2024-12-18 05:21:17 +0000",
+      "redwoods": "2024-12-18 08:22:11 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "rocky_meadow": "2024-12-18 05:21:21 +0000",
+      "outback": "2024-12-18 08:23:05 +0000",
+      "deciduous_forest": "2024-12-18 05:22:21 +0000",
+      "grassland": "2024-12-18 07:50:20 +0000",
+      "prairie": "2024-12-18 05:21:17 +0000",
+      "redwoods": "2024-12-18 08:22:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-12-18 08:18:21 +0000",
+      "minecraft:skeleton": "2024-12-18 05:22:32 +0000",
+      "minecraft:vindicator": "2024-12-18 08:18:14 +0000",
+      "minecraft:zombie": "2024-12-18 07:29:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-18 05:22:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2024-12-18 05:26:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "cocoa": "2024-12-18 06:11:57 +0000"
+    },
+    "done": false
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-18 07:08:14 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2024-12-18 07:19:39 +0000",
+      "opened_chest": "2024-12-18 07:08:14 +0000"
+    },
+    "done": false
+  },
+  "spelunkery:recipes/diamond": {
+    "criteria": {
+      "has_item": "2024-12-18 07:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-18 07:08:53 +0000"
     },
     "done": true
   },
@@ -47,58 +215,9 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-12-18 07:39:43 +0000"
-    },
-    "done": true
-  },
-  "create:root": {
-    "criteria": {
-      "0": "2024-12-18 05:20:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2024-12-18 07:27:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 07:10:13 +0000"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/coal": {
-    "criteria": {
-      "has_item": "2024-12-18 07:27:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-12-18 07:41:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2024-12-18 05:22:32 +0000",
-      "minecraft:zombie": "2024-12-18 07:29:17 +0000"
-    },
-    "done": false
-  },
-  "spelunkery:recipes/diamond": {
-    "criteria": {
-      "has_item": "2024-12-18 07:08:53 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2024-12-18 05:17:42 +0000"
     },
     "done": true
   },
@@ -108,58 +227,9 @@
     },
     "done": true
   },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2024-12-18 05:17:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-18 05:21:06 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "cocoa": "2024-12-18 06:11:57 +0000"
-    },
-    "done": false
-  },
-  "spelunkery:recipes/quartz": {
-    "criteria": {
-      "has_item": "2024-12-18 07:19:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2024-12-18 05:17:42 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:experienced_engineer": {
-    "criteria": {
-      "have_experience_nugget": "2024-12-18 07:54:05 +0000"
-    },
-    "done": true
-  },
-  "lootr:social": {
-    "criteria": {
-      "opened_barrel": "2024-12-18 07:19:39 +0000",
-      "opened_chest": "2024-12-18 07:08:14 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/woodcutting/oak/oak_door_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 07:10:13 +0000"
-    },
-    "done": true
-  },
-  "spelunkery:spelunkery/magnetic_compass": {
-    "criteria": {
-      "item": "2024-12-18 07:13:30 +0000"
     },
     "done": true
   },
@@ -169,39 +239,9 @@
     },
     "done": true
   },
-  "betternether:root": {
-    "criteria": {
-      "welcome": "2024-12-18 05:17:43 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2024-12-18 08:02:33 +0000"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/minecart": {
-    "criteria": {
-      "has_item": "2024-12-18 07:39:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-12-18 08:03:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 07:10:13 +0000"
-    },
-    "done": true
-  },
-  "betterend:root": {
-    "criteria": {
-      "welcome": "2024-12-18 05:17:43 +0000"
     },
     "done": true
   },
@@ -223,40 +263,13 @@
     },
     "done": true
   },
-  "regions_unexplored:regions_explored": {
-    "criteria": {
-      "rocky_meadow": "2024-12-18 05:21:21 +0000",
-      "deciduous_forest": "2024-12-18 05:22:21 +0000",
-      "grassland": "2024-12-18 07:50:20 +0000",
-      "prairie": "2024-12-18 05:21:17 +0000"
-    },
-    "done": false
-  },
-  "spelunkery:recipes/raw_gold": {
-    "criteria": {
-      "has_item": "2024-12-18 07:27:59 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:misc/yellow_dye_from_buttercup": {
-    "criteria": {
-      "has_the_recipe": "2024-12-18 05:17:42 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2024-12-18 05:20:33 +0000"
-    },
-    "done": true
-  },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2024-12-18 07:19:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 07:10:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 07:10:13 +0000"
     },
@@ -268,69 +281,45 @@
     },
     "done": true
   },
-  "create_enchantment_industry:recipes/experience_rotor": {
+  "spelunkery:spelunkery/magnetic_compass": {
     "criteria": {
-      "has_item": "2024-12-18 07:54:05 +0000"
+      "item": "2024-12-18 07:13:30 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/harvest_straw": {
+  "spelunkery:recipes/quartz": {
     "criteria": {
-      "harvest_straw": "2024-12-18 05:26:23 +0000"
+      "has_item": "2024-12-18 07:19:09 +0000"
     },
     "done": true
   },
-  "regions_unexplored:pioneer": {
+  "lootr:1barrel": {
     "criteria": {
-      "rocky_meadow": "2024-12-18 05:21:21 +0000",
-      "deciduous_forest": "2024-12-18 05:22:21 +0000",
-      "grassland": "2024-12-18 07:50:20 +0000",
-      "prairie": "2024-12-18 05:21:17 +0000"
-    },
-    "done": false
-  },
-  "idas:castle": {
-    "criteria": {
-      "in_castle": "2024-12-18 07:52:30 +0000"
+      "opened_barrel": "2024-12-18 07:19:39 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "killed_something": "2024-12-18 05:21:00 +0000"
+      "iron_chestplate": "2024-12-18 07:27:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_planks_woodcutting": {
+  "spelunkery:recipes/coal": {
     "criteria": {
-      "give_recipe": "2024-12-18 07:10:13 +0000"
+      "has_item": "2024-12-18 07:27:51 +0000"
     },
     "done": true
   },
-  "spelunkery:recipes/rough_diamond_shard": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "has_item": "2024-12-18 07:39:39 +0000"
+      "iron": "2024-12-18 07:27:59 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "spelunkery:recipes/raw_gold": {
     "criteria": {
-      "minecraft:skeleton": "2024-12-18 05:22:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:sparse_jungle": "2024-12-18 06:11:50 +0000",
-      "minecraft:river": "2024-12-18 05:22:13 +0000",
-      "minecraft:savanna": "2024-12-18 05:17:43 +0000",
-      "minecraft:plains": "2024-12-18 05:25:32 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "flint_knife": "2024-12-18 05:20:41 +0000"
+      "has_item": "2024-12-18 07:27:59 +0000"
     },
     "done": true
   },
@@ -340,27 +329,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "spelunkery:recipes/minecart": {
     "criteria": {
-      "honey_bottle": "2024-12-18 08:00:43 +0000",
-      "cooked_beef": "2024-12-18 06:11:42 +0000",
-      "mutton": "2024-12-18 05:25:22 +0000",
-      "cooked_mutton": "2024-12-18 07:30:26 +0000",
-      "bread": "2024-12-18 05:21:06 +0000",
-      "melon_slice": "2024-12-18 05:48:02 +0000",
-      "cod": "2024-12-18 05:27:55 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:bornin_chaos": {
-    "criteria": {
-      "bornin_chaos_0": "2024-12-18 05:17:42 +0000"
+      "has_item": "2024-12-18 07:39:39 +0000"
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "spelunkery:recipes/rough_diamond_shard": {
     "criteria": {
-      "diamond": "2024-12-18 07:08:53 +0000"
+      "has_item": "2024-12-18 07:39:39 +0000"
     },
     "done": true
   },
@@ -370,15 +347,81 @@
     },
     "done": true
   },
-  "regions_unexplored:parent": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "load_in_world": "2024-12-18 05:17:43 +0000"
+      "get_stone": "2024-12-18 07:39:43 +0000"
     },
     "done": true
   },
-  "integrated_villages:integrated_villages_root": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "always": "2024-12-18 05:17:42 +0000"
+      "slept_in_bed": "2024-12-18 07:41:50 +0000"
+    },
+    "done": true
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2024-12-18 07:52:30 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2024-12-18 07:54:05 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2024-12-18 07:54:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-18 08:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-18 08:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-18 08:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-18 08:18:25 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-18 08:21:28 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-18 08:24:36 +0000"
+    },
+    "done": false
+  },
+  "biomemakeover:biomemakeover/cladding_template": {
+    "criteria": {
+      "get_disc": "2024-12-18 08:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-18 08:29:48 +0000"
     },
     "done": true
   },

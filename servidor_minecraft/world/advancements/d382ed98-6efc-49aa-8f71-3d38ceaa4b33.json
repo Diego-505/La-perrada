@@ -81,6 +81,8 @@
     "criteria": {
       "minecraft:sparse_jungle": "2024-12-18 06:03:00 +0000",
       "minecraft:river": "2024-12-18 05:22:10 +0000",
+      "minecraft:forest": "2024-12-18 08:17:21 +0000",
+      "minecraft:desert": "2024-12-18 08:18:47 +0000",
       "minecraft:savanna": "2024-12-18 05:10:47 +0000",
       "minecraft:plains": "2024-12-18 05:25:25 +0000"
     },
@@ -155,6 +157,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-18 08:26:10 +0000",
       "minecraft:skeleton": "2024-12-18 05:30:06 +0000",
       "minecraft:spider": "2024-12-18 07:13:14 +0000",
       "minecraft:zombie": "2024-12-18 05:23:47 +0000",
@@ -409,6 +412,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_stripped_dark_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 07:30:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-18 08:24:19 +0000"
     },
     "done": true
   },
