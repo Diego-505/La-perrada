@@ -15160,3 +15160,40 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [18Dec2024 04:48:43.262] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
 [18Dec2024 04:48:43.264] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [18Dec2024 04:48:43.271] [Server thread/WARN] [ModernFix/]: Dedicated server took 197.137 seconds to load
+[18Dec2024 04:58:37.523] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Myth_Pool is 7a2e4678-1911-4377-b6d9-73cedf647364
+[18Dec2024 04:58:46.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Myth_Pool[/10.241.7.165:50768] logged in with entity id 146 at (-847.2764707060775, 81.0, 305.3816033631006)
+[18Dec2024 04:58:48.286] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Dec2024 04:58:48.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool joined the game
+[18Dec2024 04:58:48.634] [Server thread/INFO] [Jade/]: Syncing config to Myth_Pool (7a2e4678-1911-4377-b6d9-73cedf647364)
+[18Dec2024 04:58:59.893] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Myth_Pool (18)
+[18Dec2024 04:58:59.895] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Myth_Pool
+[18Dec2024 04:58:59.896] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Dec2024 04:58:59.897] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Dec2024 04:58:59.900] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Dec2024 04:58:59.901] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Dec2024 04:58:59.902] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Dec2024 04:58:59.903] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Dec2024 04:58:59.904] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Dec2024 04:58:59.905] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Dec2024 04:58:59.906] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Dec2024 04:58:59.906] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Dec2024 04:58:59.907] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Dec2024 04:58:59.908] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Dec2024 04:58:59.909] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Dec2024 04:58:59.909] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Dec2024 04:58:59.910] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Dec2024 04:58:59.911] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Dec2024 04:58:59.911] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Dec2024 04:58:59.912] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/fluffy-pancake/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Dec2024 04:58:59.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12958ms or 259 ticks behind
+[18Dec2024 04:59:02.051] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sheylike is d382ed98-6efc-49aa-8f71-3d38ceaa4b33
+[18Dec2024 04:59:02.418] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7a2e4678-1911-4377-b6d9-73cedf647364
+[18Dec2024 04:59:02.425] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6084dae3[id=d382ed98-6efc-49aa-8f71-3d38ceaa4b33,name=Sheylike,properties={textures=[com.mojang.authlib.properties.Property@13d80d7b]},legacy=false] (/10.241.179.8:54195) lost connection: Disconnected
+[18Dec2024 04:59:03.417] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7a2e4678-1911-4377-b6d9-73cedf647364
+[18Dec2024 04:59:03.420] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Myth_Pool (7a2e4678-1911-4377-b6d9-73cedf647364) successfully connected to voice chat
+[18Dec2024 05:00:07.902] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sheylike is d382ed98-6efc-49aa-8f71-3d38ceaa4b33
+[18Dec2024 05:00:08.098] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5db38b53[id=d382ed98-6efc-49aa-8f71-3d38ceaa4b33,name=Sheylike,properties={textures=[com.mojang.authlib.properties.Property@14e7517d]},legacy=false] (/10.241.179.8:54305) lost connection: Disconnected
+[18Dec2024 05:00:43.088] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sheylike is d382ed98-6efc-49aa-8f71-3d38ceaa4b33
+[18Dec2024 05:00:43.286] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d5be715[id=d382ed98-6efc-49aa-8f71-3d38ceaa4b33,name=Sheylike,properties={textures=[com.mojang.authlib.properties.Property@2ca9e8ea]},legacy=false] (/10.241.179.8:54376) lost connection: Disconnected
+[18Dec2024 05:03:04.410] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sheylike is d382ed98-6efc-49aa-8f71-3d38ceaa4b33
+[18Dec2024 05:03:04.583] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@187744ab[id=d382ed98-6efc-49aa-8f71-3d38ceaa4b33,name=Sheylike,properties={textures=[com.mojang.authlib.properties.Property@60c98f0a]},legacy=false] (/10.241.179.8:51929) lost connection: Disconnected
