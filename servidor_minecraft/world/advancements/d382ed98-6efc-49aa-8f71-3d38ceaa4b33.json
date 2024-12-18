@@ -469,6 +469,24 @@
     },
     "done": true
   },
+  "idas:wizardtower": {
+    "criteria": {
+      "in_wizardtower": "2024-12-18 08:43:26 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2024-12-18 08:43:50 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2024-12-18 08:43:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_boat_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 08:59:23 +0000"
@@ -547,27 +565,9 @@
     },
     "done": true
   },
-  "create_enchantment_industry:experienced_engineer": {
-    "criteria": {
-      "have_experience_nugget": "2024-12-18 08:43:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 08:59:23 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:recipes/experience_rotor": {
-    "criteria": {
-      "has_item": "2024-12-18 08:43:50 +0000"
-    },
-    "done": true
-  },
-  "idas:wizardtower": {
-    "criteria": {
-      "in_wizardtower": "2024-12-18 08:43:26 +0000"
     },
     "done": true
   },

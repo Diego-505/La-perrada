@@ -66,6 +66,7 @@
       "minecraft:river": "2024-12-15 08:59:37 +0000",
       "minecraft:dripstone_caves": "2024-12-15 10:34:09 +0000",
       "minecraft:forest": "2024-12-15 10:50:08 +0000",
+      "minecraft:desert": "2024-12-18 21:44:21 +0000",
       "minecraft:jungle": "2024-12-15 09:24:06 +0000",
       "minecraft:savanna": "2024-12-14 23:44:33 +0000",
       "minecraft:plains": "2024-12-15 09:02:06 +0000"
@@ -1131,6 +1132,13 @@
       "give_recipe": "2024-12-18 09:14:22 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_0": "2024-12-18 21:49:04 +0000",
+      "charm_collector_3": "2024-12-18 21:48:42 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/woodcutting/dark_oak/stripped_dark_oak_log_from_dark_oak_log_woodcutting": {
     "criteria": {
