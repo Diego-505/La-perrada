@@ -111,14 +111,16 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "rocky_meadow": "2024-12-15 08:51:01 +0000",
-      "prairie": "2024-12-15 08:54:58 +0000"
+      "prairie": "2024-12-15 08:54:58 +0000",
+      "grassland": "2024-12-18 07:50:15 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "rocky_meadow": "2024-12-15 08:51:01 +0000",
-      "prairie": "2024-12-15 08:54:58 +0000"
+      "prairie": "2024-12-15 08:54:58 +0000",
+      "grassland": "2024-12-18 07:50:15 +0000"
     },
     "done": false
   },
@@ -214,9 +216,39 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-18 07:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-18 07:53:10 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2024-12-18 07:30:11 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/diamond": {
+    "criteria": {
+      "has_item": "2024-12-18 07:52:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-18 07:48:17 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/amethyst": {
+    "criteria": {
+      "has_item": "2024-12-18 07:46:09 +0000"
     },
     "done": true
   },
@@ -229,6 +261,24 @@
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2024-12-18 07:20:58 +0000"
+    },
+    "done": true
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2024-12-18 07:52:30 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2024-12-18 07:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-18 07:52:54 +0000"
     },
     "done": true
   },

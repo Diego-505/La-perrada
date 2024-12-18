@@ -781,6 +781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_boat_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 07:52:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/jungle/jungle_chest_boat_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 05:56:16 +0000"
@@ -790,6 +796,24 @@
   "minecraft:recipes/woodcutting/jungle/jungle_fence_gate_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 05:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_sign_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 07:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 07:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 07:52:38 +0000"
     },
     "done": true
   },
@@ -805,6 +829,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/chest_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 07:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 07:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 07:52:38 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:loot_vase_broken": {
     "criteria": {
       "criteria": "2024-12-18 07:03:39 +0000"
@@ -817,9 +859,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 07:52:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-12-18 06:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 07:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 07:52:38 +0000"
     },
     "done": true
   },
@@ -841,6 +901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 07:52:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "wheat": "2024-12-18 06:32:56 +0000"
@@ -853,6 +919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_slab_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 07:52:38 +0000"
+    },
+    "done": true
+  },
   "supplementaries:husbandry/sus_stew": {
     "criteria": {
       "stew": "2024-12-18 07:04:21 +0000"
@@ -862,6 +934,12 @@
   "spelunkery:recipes/quartz": {
     "criteria": {
       "has_item": "2024-12-18 07:06:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 07:52:38 +0000"
     },
     "done": true
   },
@@ -898,6 +976,18 @@
   "minecraft:recipes/woodcutting/jungle/crafting_table_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 05:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 07:52:38 +0000"
+    },
+    "done": true
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2024-12-18 07:52:26 +0000"
     },
     "done": true
   },

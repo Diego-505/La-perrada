@@ -138,6 +138,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2024-12-18 07:54:05 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-12-18 07:19:39 +0000",
@@ -209,6 +215,7 @@
     "criteria": {
       "rocky_meadow": "2024-12-18 05:21:21 +0000",
       "deciduous_forest": "2024-12-18 05:22:21 +0000",
+      "grassland": "2024-12-18 07:50:20 +0000",
       "prairie": "2024-12-18 05:21:17 +0000"
     },
     "done": false
@@ -249,6 +256,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2024-12-18 07:54:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/harvest_straw": {
     "criteria": {
       "harvest_straw": "2024-12-18 05:26:23 +0000"
@@ -259,9 +272,16 @@
     "criteria": {
       "rocky_meadow": "2024-12-18 05:21:21 +0000",
       "deciduous_forest": "2024-12-18 05:22:21 +0000",
+      "grassland": "2024-12-18 07:50:20 +0000",
       "prairie": "2024-12-18 05:21:17 +0000"
     },
     "done": false
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2024-12-18 07:52:30 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
