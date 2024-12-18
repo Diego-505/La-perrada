@@ -15372,3 +15372,32 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [18Dec2024 07:13:30.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lech3Materna has reached the goal [True North? Due North]
 [18Dec2024 07:15:28.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv has made the advancement [Faster Farmland]
 [18Dec2024 07:16:59.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv has made the advancement [A Seedy Place]
+[18Dec2024 07:19:19.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has made the advancement [Barrel Booty]
+[18Dec2024 07:19:19.542] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:overworld at BlockPos{x=-844, y=82, z=302} as the loot table 'minecraft:house_1' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[18Dec2024 07:19:39.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lech3Materna has made the advancement [Barrel Booty]
+[18Dec2024 07:19:39.871] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:overworld at BlockPos{x=-844, y=82, z=302} as the loot table 'minecraft:house_1' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[18Dec2024 07:20:58.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [Barrel Booty]
+[18Dec2024 07:20:58.310] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:overworld at BlockPos{x=-844, y=82, z=302} as the loot table 'minecraft:house_1' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[18Dec2024 07:23:12.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv was slain by Nightmare Stalker
+[18Dec2024 07:23:12.523] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[18Dec2024 07:23:12.526] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[18Dec2024 07:23:12.528] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[18Dec2024 07:23:12.528] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[18Dec2024 07:23:12.529] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[18Dec2024 07:23:13.613] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Dec2024 07:24:53.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv withered away
+[18Dec2024 07:24:55.018] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Dec2024 07:25:29.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv withered away
+[18Dec2024 07:25:31.197] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Dec2024 07:25:47.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool withered away
+[18Dec2024 07:25:49.352] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Dec2024 07:26:10.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike withered away
+[18Dec2024 07:26:13.471] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Dec2024 07:27:00.289] [pool-14-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red], ResourceKey[minecraft:worldgen/structure / integrated_villages:airship_village], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / integrated_villages:kutcha_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:tavern_village], ResourceKey[minecraft:worldgen/structure / idas:farmhouse], ResourceKey[minecraft:worldgen/structure / integrated_villages:quark/minka_village], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern]] from pos BlockPos{x=-229, y=83, z=731}
+[18Dec2024 07:27:45.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv withered away
+[18Dec2024 07:27:47.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike withered away
+[18Dec2024 07:27:47.173] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Dec2024 07:27:51.085] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Dec2024 07:27:51.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lech3Materna has made the advancement [Suit Up]
+[18Dec2024 07:27:59.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lech3Materna has made the advancement [Acquire Hardware]
+[18Dec2024 07:27:59.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lech3Materna has made the advancement [Unbreaking X]

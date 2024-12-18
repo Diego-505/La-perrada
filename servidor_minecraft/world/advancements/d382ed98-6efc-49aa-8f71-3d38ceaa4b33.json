@@ -153,8 +153,10 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "beetroot": "2024-12-18 07:17:00 +0000",
       "wheat": "2024-12-18 06:22:53 +0000",
-      "melon": "2024-12-18 06:33:27 +0000"
+      "melon": "2024-12-18 06:33:27 +0000",
+      "carrot": "2024-12-18 07:18:12 +0000"
     },
     "done": false
   },
@@ -172,6 +174,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2024-12-18 07:19:19 +0000",
       "opened_chest": "2024-12-18 07:03:01 +0000"
     },
     "done": false
@@ -262,6 +265,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-18 05:10:46 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-18 07:19:19 +0000"
     },
     "done": true
   },

@@ -95,6 +95,12 @@
     },
     "done": false
   },
+  "spelunkery:recipes/quartz": {
+    "criteria": {
+      "has_item": "2024-12-18 07:19:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-18 05:17:42 +0000"
@@ -103,6 +109,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2024-12-18 07:19:39 +0000",
       "opened_chest": "2024-12-18 07:08:14 +0000"
     },
     "done": false
@@ -178,6 +185,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-18 05:20:33 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-18 07:19:39 +0000"
     },
     "done": true
   },

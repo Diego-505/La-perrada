@@ -103,7 +103,8 @@
       "beef": "2024-12-15 09:01:25 +0000",
       "porkchop": "2024-12-15 09:01:20 +0000",
       "cooked_mutton": "2024-12-15 09:10:39 +0000",
-      "bread": "2024-12-15 08:49:28 +0000"
+      "bread": "2024-12-15 08:49:28 +0000",
+      "melon_slice": "2024-12-18 07:19:44 +0000"
     },
     "done": false
   },
@@ -202,9 +203,22 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2024-12-18 07:20:58 +0000",
       "opened_chest": "2024-12-15 09:19:00 +0000"
     },
     "done": false
+  },
+  "spelunkery:recipes/raw_gold": {
+    "criteria": {
+      "has_item": "2024-12-18 07:22:07 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-18 07:20:58 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
