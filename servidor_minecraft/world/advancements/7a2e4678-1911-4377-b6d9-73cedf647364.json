@@ -1003,6 +1003,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/flint": {
+    "criteria": {
+      "has_item": "2024-12-18 08:14:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/jungle/jungle_pressure_plate_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 05:56:16 +0000"

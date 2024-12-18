@@ -15590,3 +15590,50 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [18Dec2024 08:08:03.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.4012248770457063
 [18Dec2024 08:08:03.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.4350278574755748
 [18Dec2024 08:08:03.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.4360108682143391
+[18Dec2024 08:09:46.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv has made the advancement [This Must be a Sign!]
+[18Dec2024 08:09:57.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has made the advancement [This Must be a Sign!]
+[18Dec2024 08:10:21.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 0.29474053719604854
+[18Dec2024 08:10:21.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 0.8572463792136205
+[18Dec2024 08:10:30.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Sheylike) moved wrongly! 0.2613020649541795
+[18Dec2024 08:10:46.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.4136002730998598
+[18Dec2024 08:10:46.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.4433104637236056
+[18Dec2024 08:10:46.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.49618099010262995
+[18Dec2024 08:10:46.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.28816952402587503
+[18Dec2024 08:10:47.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.274325606881348
+[18Dec2024 08:10:47.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.2888164805242468
+[18Dec2024 08:10:47.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.30794718995184667
+[18Dec2024 08:10:47.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.3781867445077296
+[18Dec2024 08:10:47.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.37303562847364446
+[18Dec2024 08:10:47.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.3164167196357539
+[18Dec2024 08:10:47.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Diego505_) moved wrongly! 0.3051658606070958
+[18Dec2024 08:10:55.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has made the advancement [Disme A Dozen]
+[18Dec2024 08:11:20.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [Surge Protector]
+[18Dec2024 08:11:20.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv has made the advancement [Surge Protector]
+[18Dec2024 08:11:20.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has made the advancement [Surge Protector]
+[18Dec2024 08:13:02.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [Disme A Dozen]
+[18Dec2024 08:13:43.652] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/94843, l='ServerLevel[world]', x=-536.70, y=98.00, z=1160.50] died, message: 'Fisherman was slain by Zombie Fisherman'
+[18Dec2024 08:13:49.507] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/94785, l='ServerLevel[world]', x=-546.32, y=98.00, z=1160.30] died, message: 'Unemployed was slain by Zombie Fisherman'
+[18Dec2024 08:14:00.701] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/94786, l='ServerLevel[world]', x=-546.72, y=98.00, z=1160.30] died, message: 'Unemployed was slain by Zombie Fisherman'
+[18Dec2024 08:15:42.782] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/95, l='ServerLevel[world]', x=-16.85, y=96.00, z=325.70] died, message: 'Farmer hit the ground too hard'
+[18Dec2024 08:17:17.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv has reached the goal [Dark Creator]
+[18Dec2024 08:17:55.414] [Worker-Main-104/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 08:18:18.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lech3Materna has made the advancement [Not Today, Thank You]
+[18Dec2024 08:18:25.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lech3Materna has made the advancement [Voluntary Exile]
+[18Dec2024 08:18:41.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[18Dec2024 08:18:45.213] [Worker-Main-104/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 08:18:45.214] [Worker-Main-104/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 08:18:45.215] [Worker-Main-104/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 08:18:45.215] [Worker-Main-104/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 08:18:45.215] [Worker-Main-104/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 08:18:45.216] [Worker-Main-104/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 08:18:45.248] [Worker-Main-104/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 08:18:58.113] [Worker-Main-94/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 08:19:01.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4385ms or 87 ticks behind
+[18Dec2024 08:19:08.141] [Worker-Main-205/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 08:19:08.141] [Worker-Main-205/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 08:19:08.142] [Worker-Main-205/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 08:19:08.142] [Worker-Main-205/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 08:19:08.142] [Worker-Main-205/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 08:19:08.142] [Worker-Main-205/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 08:19:08.185] [Worker-Main-205/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 08:19:18.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2639ms or 52 ticks behind
