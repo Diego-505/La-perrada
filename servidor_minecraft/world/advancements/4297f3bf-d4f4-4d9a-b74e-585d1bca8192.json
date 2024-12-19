@@ -226,6 +226,7 @@
       "outback": "2024-12-19 00:46:03 +0000",
       "joshua_desert": "2024-12-19 00:52:29 +0000",
       "deciduous_forest": "2024-12-18 07:29:27 +0000",
+      "fungal_fen": "2024-12-19 01:22:08 +0000",
       "saguaro_desert": "2024-12-19 00:55:19 +0000",
       "temperate_grove": "2024-12-18 07:36:31 +0000",
       "grassland": "2024-12-15 11:01:32 +0000",
@@ -242,6 +243,7 @@
       "outback": "2024-12-19 00:46:03 +0000",
       "joshua_desert": "2024-12-19 00:52:29 +0000",
       "deciduous_forest": "2024-12-18 07:29:27 +0000",
+      "fungal_fen": "2024-12-19 01:22:08 +0000",
       "saguaro_desert": "2024-12-19 00:55:19 +0000",
       "temperate_grove": "2024-12-18 07:36:31 +0000",
       "grassland": "2024-12-15 11:01:32 +0000",
@@ -1045,6 +1047,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_slab_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 09:10:29 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/sunken_ruin": {
+    "criteria": {
+      "ruin": "2024-12-19 01:24:31 +0000"
     },
     "done": true
   },
