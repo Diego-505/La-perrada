@@ -901,7 +901,9 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "wheat": "2024-12-18 06:32:56 +0000"
+      "potato": "2024-12-19 01:27:33 +0000",
+      "wheat": "2024-12-18 06:32:56 +0000",
+      "carrot": "2024-12-19 01:27:43 +0000"
     },
     "done": false
   },
