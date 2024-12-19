@@ -828,15 +828,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_slab_woodcutting": {
+  "idas:castle": {
     "criteria": {
-      "give_recipe": "2024-12-18 08:37:07 +0000"
+      "in_castle": "2024-12-18 07:52:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_planks_woodcutting": {
+  "lootr:25loot": {
     "criteria": {
-      "give_recipe": "2024-12-18 09:10:29 +0000"
+      "loot_stat": "2024-12-18 08:05:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-18 08:09:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-18 08:11:20 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2024-12-18 08:17:17 +0000"
     },
     "done": true
   },
@@ -845,6 +863,12 @@
       "charm_collector_3": "2024-12-18 08:17:25 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:37:07 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_slab_woodcutting": {
     "criteria": {
@@ -864,6 +888,78 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/chest_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 08:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-18 08:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-18 09:10:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 09:10:29 +0000"
@@ -876,33 +972,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2024-12-18 08:37:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2024-12-18 08:37:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2024-12-18 08:37:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 09:10:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/chest_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2024-12-18 08:37:07 +0000"
     },
     "done": true
   },
@@ -924,39 +996,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2024-12-18 08:37:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
-    "criteria": {
-      "lightning_rod_with_villager_no_fire": "2024-12-18 08:11:20 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2024-12-18 08:09:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2024-12-18 08:37:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 09:10:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2024-12-18 08:37:07 +0000"
     },
     "done": true
   },
@@ -966,21 +1008,9 @@
     },
     "done": true
   },
-  "lootr:25loot": {
-    "criteria": {
-      "loot_stat": "2024-12-18 08:05:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 09:10:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2024-12-18 08:37:07 +0000"
     },
     "done": true
   },
@@ -990,39 +1020,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2024-12-18 08:37:07 +0000"
-    },
-    "done": true
-  },
-  "idas:castle": {
-    "criteria": {
-      "in_castle": "2024-12-18 07:52:13 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dark_creator": {
-    "criteria": {
-      "dark_creator_0": "2024-12-18 08:17:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 09:10:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2024-12-18 08:37:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2024-12-18 08:37:07 +0000"
     },
     "done": true
   },

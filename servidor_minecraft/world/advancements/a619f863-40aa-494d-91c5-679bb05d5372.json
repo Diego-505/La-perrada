@@ -604,9 +604,27 @@
     },
     "done": true
   },
+  "spelunkery:spelunkery/grindstone": {
+    "criteria": {
+      "item": "2024-12-19 00:17:16 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/magnetic_compass": {
+    "criteria": {
+      "item": "2024-12-19 00:24:54 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2024-12-18 23:58:08 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_diamond_shard": {
+    "criteria": {
+      "has_item": "2024-12-19 00:15:48 +0000"
     },
     "done": true
   },
