@@ -385,3 +385,153 @@
 [19Dec2024 01:08:17.482] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/104744, l='ServerLevel[world]', x=-52.50, y=95.00, z=2827.50]
 [19Dec2024 01:09:26.600] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Copper Nugget'/104718, l='ServerLevel[world]', x=36.50, y=65.00, z=2902.50, removed=DISCARDED]
 [19Dec2024 01:09:31.547] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Copper Nugget'/104718, l='ServerLevel[world]', x=36.50, y=65.00, z=2902.50, removed=DISCARDED]
+[19Dec2024 01:09:32.228] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 01:09:51.589] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 01:10:05.178] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 01:10:25.006] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:10:32.307] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 01:10:44.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 0.3777045121464653
+[19Dec2024 01:10:44.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 0.8944899601806355
+[19Dec2024 01:10:44.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 1.3914988867909415
+[19Dec2024 01:10:44.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 1.8548979270664427
+[19Dec2024 01:10:44.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 2.299141942737615
+[19Dec2024 01:10:44.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 2.6237635552874248
+[19Dec2024 01:10:44.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 2.908608609185282
+[19Dec2024 01:10:44.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 3.207000180833228
+[19Dec2024 01:10:44.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 3.5435549268503608
+[19Dec2024 01:10:44.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 2.10591445921483
+[19Dec2024 01:10:44.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 2.6699413655969124
+[19Dec2024 01:10:44.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 3.235728854589354
+[19Dec2024 01:10:44.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 3.8043590998565264
+[19Dec2024 01:10:44.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 4.376576637673452
+[19Dec2024 01:10:44.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 4.950225878517131
+[19Dec2024 01:10:44.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 5.5220020176975595
+[19Dec2024 01:10:44.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 6.0418955145778455
+[19Dec2024 01:10:44.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 6.534421520437377
+[19Dec2024 01:10:44.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 7.012303727500637
+[19Dec2024 01:10:44.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 7.48235032979386
+[19Dec2024 01:10:44.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 7.948204256199745
+[19Dec2024 01:10:44.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 8.4118147653312
+[19Dec2024 01:10:44.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 8.845406874139542
+[19Dec2024 01:10:44.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 9.207290636851951
+[19Dec2024 01:10:44.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 9.456566373813814
+[19Dec2024 01:10:44.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 9.59245605164864
+[19Dec2024 01:10:44.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 9.716219860082504
+[19Dec2024 01:10:44.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 9.829237482654946
+[19Dec2024 01:10:44.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 12.524615438957841
+[19Dec2024 01:10:44.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 12.963901324130171
+[19Dec2024 01:10:44.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 13.444295445950281
+[19Dec2024 01:10:44.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 13.948251825280494
+[19Dec2024 01:10:44.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 14.466282405584442
+[19Dec2024 01:10:44.770] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:10:44.771] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:10:44.771] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:10:44.771] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:10:44.771] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:10:46.712] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:10:46.743] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:10:46.743] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:10:47.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4597ms or 91 ticks behind
+[19Dec2024 01:10:50.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 0.2667320971577283
+[19Dec2024 01:10:50.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 0.6449007166256706
+[19Dec2024 01:10:51.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 0.3222709871179177
+[19Dec2024 01:10:51.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 0.8178627635193152
+[19Dec2024 01:10:52.725] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 01:10:55.066] [pool-14-thread-5/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red], ResourceKey[minecraft:worldgen/structure / integrated_villages:marketstead_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:cabin_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:pirate_village], ResourceKey[minecraft:worldgen/structure / idas:bazaar], ResourceKey[minecraft:worldgen/structure / integrated_villages:airship_village], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge]] from pos BlockPos{x=379, y=83, z=2501}
+[19Dec2024 01:10:55.104] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=379, y=83, z=2500} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[19Dec2024 01:10:55.105] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=379, y=83, z=2500}
+[19Dec2024 01:10:55.105] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=379, y=82, z=2500} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[19Dec2024 01:10:55.105] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=379, y=82, z=2500}
+[19Dec2024 01:10:55.493] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=379, y=83, z=2501} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[19Dec2024 01:10:55.493] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=379, y=83, z=2501}
+[19Dec2024 01:11:00.202] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:00.203] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:00.203] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:00.203] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:00.203] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:00.203] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:02.063] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:02.065] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:02.066] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:07.880] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:07.895] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:07.916] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:07.917] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:07.917] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:07.954] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:07.955] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:07.955] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:07.955] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:08.670] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:08.742] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:08.743] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:08.743] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:08.743] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:13.055] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:13.057] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:13.086] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:13.086] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:13.086] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:13.086] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:13.151] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:13.152] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:13.152] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:13.152] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:13.152] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:13.152] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:13.153] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:11:18.627] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 01:11:30.005] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 01:11:34.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv has made the advancement [It Bites]
+[19Dec2024 01:12:23.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv has made the advancement [Pest Control]
+[19Dec2024 01:12:49.347] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 01:14:28.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 0.2558116028740187
+[19Dec2024 01:14:28.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 0.8043334505910025
+[19Dec2024 01:15:14.026] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 01:15:15.937] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 01:15:18.455] [pool-14-thread-6/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / integrated_villages:pirate_village], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / idas:bazaar], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / integrated_villages:kutcha_village], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / integrated_villages:marketstead_village], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house]] from pos BlockPos{x=37, y=80, z=2251}
+[19Dec2024 01:15:18.508] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=37, y=77, z=2250} but found not block entity block Block{minecraft:stone_stairs}[facing=east,half=bottom,shape=straight,waterlogged=false] at location
+[19Dec2024 01:15:18.508] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_stairs}[facing=east,half=bottom,shape=straight,waterlogged=false] but failed at location BlockPos{x=37, y=77, z=2250}
+[19Dec2024 01:15:18.509] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=38, y=77, z=2250} but found not block entity block Block{minecraft:stone} at location
+[19Dec2024 01:15:18.509] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=38, y=77, z=2250}
+[19Dec2024 01:15:18.509] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=37, y=80, z=2252} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[19Dec2024 01:15:18.510] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=37, y=80, z=2252}
+[19Dec2024 01:15:18.510] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=37, y=79, z=2252} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[19Dec2024 01:15:18.510] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=37, y=79, z=2252}
+[19Dec2024 01:15:18.961] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id irons_spellbooks:priest
+[19Dec2024 01:15:19.390] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=37, y=80, z=2251} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[19Dec2024 01:15:19.390] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=37, y=80, z=2251}
+[19Dec2024 01:15:33.650] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 01:16:19.884] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:2.828427f,range:8,source:{pos:[I;-340,-59,12],type:"minecraft:block"}}]
+[19Dec2024 01:16:19.884] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-338,-59,10],type:"minecraft:block"}}]
+[19Dec2024 01:16:19.884] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:2.828427f,range:8,source:{pos:[I;-336,-59,8],type:"minecraft:block"}}]
+[19Dec2024 01:16:29.247] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=479, y=-6, z=2744} but found not block entity block Block{minecraft:air} at location
+[19Dec2024 01:16:29.248] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=479, y=-6, z=2744}
+[19Dec2024 01:16:29.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 0.4345578844067859
+[19Dec2024 01:16:29.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Snips_bv) moved wrongly! 0.9150642355430136
+[19Dec2024 01:16:31.573] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=454, y=-19, z=2767} but found not block entity block Block{minecraft:air} at location
+[19Dec2024 01:16:31.574] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=454, y=-19, z=2767}
+[19Dec2024 01:16:31.574] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=456, y=-19, z=2764} but found not block entity block Block{minecraft:air} at location
+[19Dec2024 01:16:31.574] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=456, y=-19, z=2764}
+[19Dec2024 01:16:58.304] [pool-14-thread-7/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:bazaar], ResourceKey[minecraft:worldgen/structure / integrated_villages:cabin_village], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / integrated_villages:airship_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:oasis_village], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / integrated_villages:mediterranean_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:pirate_village]] from pos BlockPos{x=-1093, y=83, z=1019}
+[19Dec2024 01:16:59.503] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1094, y=80, z=1019} but found not block entity block Block{minecraft:stone_slab}[type=bottom,waterlogged=false] at location
+[19Dec2024 01:16:59.503] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_slab}[type=bottom,waterlogged=false] but failed at location BlockPos{x=-1094, y=80, z=1019}
+[19Dec2024 01:16:59.503] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1094, y=80, z=1020} but found not block entity block Block{minecraft:stone} at location
+[19Dec2024 01:16:59.503] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1094, y=80, z=1020}
+[19Dec2024 01:16:59.503] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1092, y=83, z=1019} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[19Dec2024 01:16:59.504] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-1092, y=83, z=1019}
+[19Dec2024 01:16:59.504] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1092, y=82, z=1019} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[19Dec2024 01:16:59.504] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-1092, y=82, z=1019}
+[19Dec2024 01:17:00.108] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1093, y=83, z=1019} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+[19Dec2024 01:17:00.108] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-1093, y=83, z=1019}
+[19Dec2024 01:17:42.690] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Copper Nugget'/104718, l='ServerLevel[world]', x=36.50, y=65.00, z=2902.50, removed=DISCARDED]
+[19Dec2024 01:18:13.758] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/121175, l='ServerLevel[world]', x=-730.89, y=86.00, z=795.90, removed=DISCARDED]
+[19Dec2024 01:18:21.202] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/121396, l='ServerLevel[world]', x=-707.17, y=88.00, z=794.60, removed=DISCARDED]
+[19Dec2024 01:18:41.942] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/121956, l='ServerLevel[world]', x=-698.53, y=91.00, z=780.33, removed=DISCARDED]
+[19Dec2024 01:19:06.833] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 01:19:10.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 01:19:31.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19Dec2024 01:19:43.975] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=28, y=174, z=2094} but found not block entity block Block{minecraft:air} at location
+[19Dec2024 01:19:43.975] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=28, y=174, z=2094}
+[19Dec2024 01:19:43.978] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=53, y=174, z=2094} but found not block entity block Block{minecraft:air} at location
+[19Dec2024 01:19:43.978] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=53, y=174, z=2094}

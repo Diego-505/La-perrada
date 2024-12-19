@@ -219,6 +219,8 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "dry_bushland": "2024-12-19 01:11:07 +0000",
+      "steppe": "2024-12-19 01:10:08 +0000",
       "grassy_beach": "2024-12-15 11:06:05 +0000",
       "rocky_meadow": "2024-12-15 08:51:10 +0000",
       "outback": "2024-12-19 00:46:03 +0000",
@@ -233,6 +235,8 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "dry_bushland": "2024-12-19 01:11:07 +0000",
+      "steppe": "2024-12-19 01:10:08 +0000",
       "grassy_beach": "2024-12-15 11:06:05 +0000",
       "rocky_meadow": "2024-12-15 08:51:10 +0000",
       "outback": "2024-12-19 00:46:03 +0000",
@@ -1073,6 +1077,18 @@
   "iceandfire:iceandfire/kill_deathworm": {
     "criteria": {
       "killed_fire_dragon": "2024-12-19 00:49:19 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/it_bites": {
+    "criteria": {
+      "killed_mauler": "2024-12-19 01:11:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2024-12-19 01:12:23 +0000"
     },
     "done": true
   },
