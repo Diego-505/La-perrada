@@ -221,7 +221,10 @@
     "criteria": {
       "grassy_beach": "2024-12-15 11:06:05 +0000",
       "rocky_meadow": "2024-12-15 08:51:10 +0000",
+      "outback": "2024-12-19 00:46:03 +0000",
+      "joshua_desert": "2024-12-19 00:52:29 +0000",
       "deciduous_forest": "2024-12-18 07:29:27 +0000",
+      "saguaro_desert": "2024-12-19 00:55:19 +0000",
       "temperate_grove": "2024-12-18 07:36:31 +0000",
       "grassland": "2024-12-15 11:01:32 +0000",
       "prairie": "2024-12-15 08:55:03 +0000"
@@ -232,7 +235,10 @@
     "criteria": {
       "grassy_beach": "2024-12-15 11:06:05 +0000",
       "rocky_meadow": "2024-12-15 08:51:10 +0000",
+      "outback": "2024-12-19 00:46:03 +0000",
+      "joshua_desert": "2024-12-19 00:52:29 +0000",
       "deciduous_forest": "2024-12-18 07:29:27 +0000",
+      "saguaro_desert": "2024-12-19 00:55:19 +0000",
       "temperate_grove": "2024-12-18 07:36:31 +0000",
       "grassland": "2024-12-15 11:01:32 +0000",
       "prairie": "2024-12-15 08:55:03 +0000"
@@ -1035,6 +1041,48 @@
   "minecraft:recipes/woodcutting/spruce/spruce_slab_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 09:10:29 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:fossil_found": {
+    "criteria": {
+      "betterarcheology:fossil_found": "2024-12-19 00:55:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2024-12-19 00:46:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2024-12-19 00:52:15 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:all_fossils_found": {
+    "criteria": {
+      "betterarcheology:guardian_fossil_head": "2024-12-19 00:55:40 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-19 00:49:19 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2024-12-19 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "old_eye": "2024-12-19 00:49:21 +0000"
     },
     "done": true
   },

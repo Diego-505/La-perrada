@@ -237,3 +237,60 @@
 [19Dec2024 00:47:57.965] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/92725, l='ServerLevel[world]', x=-354.50, y=59.00, z=1552.50]
 [19Dec2024 00:47:59.009] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
 [19Dec2024 00:48:42.428] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:49:03.726] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/93448, l='ServerLevel[world]', x=-355.50, y=59.00, z=1552.50]
+[19Dec2024 00:49:19.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv has made the advancement [The Desert Swimmers]
+[19Dec2024 00:49:21.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv has made the advancement [The Beginning of An Adventure]
+[19Dec2024 00:49:21.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv has made the advancement [Fortune Seeker]
+[19Dec2024 00:50:14.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10713ms or 214 ticks behind
+[19Dec2024 00:50:39.946] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:50:41.995] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:50:43.108] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:50:50.702] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:50:51.445] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:50:58.397] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:51:10.803] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:51:14.455] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:52:06.842] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:52:15.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv has made the advancement [Rigged from the Start]
+[19Dec2024 00:53:57.060] [pool-14-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / integrated_villages:kutcha_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:pirate_village], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house], ResourceKey[minecraft:worldgen/structure / integrated_villages:tavern_village], ResourceKey[minecraft:worldgen/structure / idas:farmhouse], ResourceKey[minecraft:worldgen/structure / integrated_villages:airship_village]] from pos BlockPos{x=-187, y=81, z=1931}
+[19Dec2024 00:54:00.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2205ms or 44 ticks behind
+[19Dec2024 00:54:17.631] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 00:54:17.829] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 00:54:17.829] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 00:54:17.830] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 00:54:17.830] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 00:54:17.830] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 00:54:17.831] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 00:54:17.858] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 00:55:07.753] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:55:29.037] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.041] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.050] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.050] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.059] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.070] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.070] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.070] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.071] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.071] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.072] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.072] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.072] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.074] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.074] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.074] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.075] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.078] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.080] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.080] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.080] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.084] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.084] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.085] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:29.086] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 00:55:40.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snips_bv has made the advancement [Ancient Treasure]
+[19Dec2024 00:55:40.994] [pool-14-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market], ResourceKey[minecraft:worldgen/structure / integrated_villages:kutcha_village], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / integrated_villages:pirate_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:tavern_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:mediterranean_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:oasis_village], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange]] from pos BlockPos{x=-261, y=80, z=2181}
+[19Dec2024 00:55:53.348] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:57:19.699] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego505_ lost connection: Disconnected
+[19Dec2024 00:57:19.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ left the game
+[19Dec2024 00:57:19.701] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Diego505_
