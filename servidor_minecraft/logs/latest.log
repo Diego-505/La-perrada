@@ -160,3 +160,60 @@
 [19Dec2024 00:28:09.246] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4297f3bf-d4f4-4d9a-b74e-585d1bca8192
 [19Dec2024 00:28:10.247] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4297f3bf-d4f4-4d9a-b74e-585d1bca8192
 [19Dec2024 00:28:10.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Snips_bv (4297f3bf-d4f4-4d9a-b74e-585d1bca8192) successfully connected to voice chat
+[19Dec2024 00:28:52.752] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:28:55.951] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:29:11.046] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:29:12.783] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:29:19.199] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:29:29.302] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:29:40.756] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:29:45.432] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:29:47.406] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:30:06.831] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:30:20.956] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:30:26.909] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:30:46.803] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:31:04.207] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:31:26.958] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:31:33.160] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:31:44.847] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:33:04.854] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:33:14.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [A Seedy Place]
+[19Dec2024 00:33:46.108] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:34:31.003] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sheylike is d382ed98-6efc-49aa-8f71-3d38ceaa4b33
+[19Dec2024 00:34:40.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sheylike[/10.241.179.8:57876] logged in with entity id 88312 at (-534.1777228232012, 90.0, 1155.2079996605798)
+[19Dec2024 00:34:40.428] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19Dec2024 00:34:40.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike joined the game
+[19Dec2024 00:34:40.556] [Server thread/INFO] [Jade/]: Syncing config to Sheylike (d382ed98-6efc-49aa-8f71-3d38ceaa4b33)
+[19Dec2024 00:34:42.300] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sheylike (18)
+[19Dec2024 00:34:42.300] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sheylike
+[19Dec2024 00:34:42.301] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19Dec2024 00:34:42.301] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19Dec2024 00:34:42.301] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[19Dec2024 00:34:42.301] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19Dec2024 00:34:42.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[19Dec2024 00:34:42.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[19Dec2024 00:34:42.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[19Dec2024 00:34:42.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[19Dec2024 00:34:42.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[19Dec2024 00:34:42.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[19Dec2024 00:34:42.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19Dec2024 00:34:42.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19Dec2024 00:34:42.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19Dec2024 00:34:42.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19Dec2024 00:34:42.303] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19Dec2024 00:34:42.303] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19Dec2024 00:34:42.303] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19Dec2024 00:34:42.303] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/fluffy-pancake/servidor_minecraft/bclib-sync (allowDelete=true)
+[19Dec2024 00:34:48.959] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:34:51.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d382ed98-6efc-49aa-8f71-3d38ceaa4b33
+[19Dec2024 00:34:52.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d382ed98-6efc-49aa-8f71-3d38ceaa4b33
+[19Dec2024 00:34:52.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sheylike (d382ed98-6efc-49aa-8f71-3d38ceaa4b33) successfully connected to voice chat
+[19Dec2024 00:35:07.448] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:35:25.187] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:35:31.859] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:35:51.361] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:35:59.461] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:36:09.000] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:36:34.454] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
+[19Dec2024 00:38:03.934] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/76377, l='ServerLevel[world]', x=-538.62, y=79.17, z=788.54, removed=DISCARDED]
