@@ -1214,6 +1214,12 @@
     },
     "done": false
   },
+  "born_in_chaos_v1:food_fight": {
+    "criteria": {
+      "food_fight_0": "2024-12-18 23:56:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-18 21:39:21 +0000"
